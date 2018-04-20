@@ -1,4 +1,4 @@
 # Archive of the blupf90 forum in Yahoo Groups
 
-- [Discussion tree](message_tree.md)
-- [All posts](message_list.md)
+- [Discussion tree](md/message_tree.md)
+- [All posts](md/message_list.md)
