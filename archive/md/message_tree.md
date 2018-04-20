@@ -1,4 +1,4 @@
-# Index
+# Tree Index
 
 - [920](0920.md): Using multiple cores for faster analisys? by rnakamurawatanabe, Apr 13 10:14 AM
     - [922](0922.md): Re: Using multiple cores for faster analisys? by yutakamasuda, Apr 17 9:33 AM
