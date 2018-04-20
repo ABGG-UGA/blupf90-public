@@ -1,0 +1,904 @@
+# List
+
+[923](0923.md): Re: Using multiple cores for faster analisys? by rnakamurawatanabe Apr 17 11:10 AM
+[922](0922.md): Re: Using multiple cores for faster analisys? by yutakamasuda Apr 17 9:33 AM
+[921](0921.md): Re: Prediction error variance from a RRM through AIREML and some details of "pev_pec_bf90" file. by yutakamasuda Apr 17 9:29 AM
+[920](0920.md): Using multiple cores for faster analisys? by rnakamurawatanabe Apr 13 10:14 AM
+[919](0919.md): Prediction error variance from a RRM through AIREML and some details of "pev_pec_bf90" file. by asdko123 Apr 4 1:31 AM
+[918](0918.md): Re: Geweke by shogotsuruta Apr 1 10:55 AM
+[917](0917.md): New file uploaded to blupf90 by blupf90@yahoogroups.com Mar 31
+[916](0916.md): Geweke by Gleyson Vieira Mar 29
+[915](0915.md): Geweke by Gleyson Vieira Mar 29
+[913](0913.md): Re: CBLUPF90 by shani_vet Mar 26
+[912](0912.md): Re: THRGIBBS1F90 by shani_vet Mar 26
+[911](0911.md): Re: THRGIBBS1F90 by shogotsuruta Mar 23
+[910](0910.md): Re: [blupf90] Re: CBLUPF90 by shogotsuruta Mar 23
+[909](0909.md): Re: [blupf90] Re: CBLUPF90 by thomas muasya Mar 23
+[908](0908.md): THRGIBBS1F90 by shani_vet Mar 22
+[907](0907.md): Re: Breeding value prediction with RR model by jukebop Mar 14
+[906](0906.md): Re: Breeding value prediction with RR model by Juliana Petrini Mar 14
+[905](0905.md): Re: Setting MISSING value and degree of belief by nguyen_tuan393 Mar 8
+[904](0904.md): Re: CBLUPF90 by shogotsuruta Mar 6
+[903](0903.md): Re: CBLUPF90 by shani_vet Mar 6
+[902](0902.md): Re: [blupf90] Re: CBLUPF90 by shogotsuruta Mar 6
+[901](0901.md): Re: [blupf90] Re: CBLUPF90 by Ayman EL Nagar Mar 6
+[900](0900.md): Re: CBLUPF90 by shogotsuruta Mar 6
+[899](0899.md): Re: Setting MISSING value and degree of belief by shogotsuruta Mar 6
+[898](0898.md): Re: Setting MISSING value and degree of belief by nguyen_tuan393 Mar 5
+[897](0897.md): CBLUPF90 by shani_vet Mar 4
+[896](0896.md): Re: thrgibbs1f90b by behrang_mahjani Mar 1
+[895](0895.md): Re: thrgibbs1f90b by shogotsuruta Mar 1
+[894](0894.md): thrgibbs1f90b by behrang_mahjani Mar 1
+[893](0893.md): Re: Setting MISSING value and degree of belief by Shogo Tsuruta Feb 28
+[892](0892.md): Re: Breeding value prediction with RR model by Shogo Tsuruta Feb 28
+[891](0891.md): Setting MISSING value and degree of belief by nguyen_tuan393 Feb 27
+[890](0890.md): Breeding value prediction with RR model by jukebop Feb 15
+[889](0889.md): Re: [blupf90] ssGBLUP base allelic frequency by Ignacy Misztal Feb 5
+[888](0888.md): ssGBLUP base allelic frequency by gopal gowane Feb 5
+[887](0887.md): Re: [blupf90] Negative Residual Variance by Ste Bif Feb 3
+[886](0886.md): BLUPF90 with hypothesis testing by Ayman EL Nagar Feb 3
+[885](0885.md): Re: [blupf90] Negative Residual Variance by Ignacy Misztal Feb 3
+[884](0884.md): Negative Residual Variance by Ste Bif Feb 3
+[882](0882.md): Original Animal IDs passed to Solution File by kedmart Jan 14
+[881](0881.md): Animal instead Add_sire? RENUMF90 -> AIREML90 by wod.lukasz@gmail.com Jan 8
+[880](0880.md): locks the mobile by sinan dh Jan 2
+[879](0879.md): Re: [blupf90] PostGSF90 window_variance by Χρήστος Παλαιοκώστας Dec 15, 2017
+[878](0878.md): Re: Fixed effect in dairy cattle by Daniela Lourenco Dec 15, 2017
+[877](0877.md): Re: PostGSF90 window_variance by Daniela Lourenco Dec 15, 2017
+[876](0876.md): Re: [blupf90] Where is progsf90.tar.gz??? by Marnin Wolfe Dec 15, 2017
+[875](0875.md): Re: [blupf90] Where is progsf90.tar.gz??? by Shogo Tsuruta Dec 15, 2017
+[874](0874.md): Re: [blupf90] Where is progsf90.tar.gz??? by Marnin Wolfe Dec 15, 2017
+[873](0873.md): Re: [blupf90] How to solve "too many elements found in a hash matrix" problem ? by Ignacy Misztal Dec 15, 2017
+[872](0872.md): How to solve "too many elements found in a hash matrix" problem ? by mahboob_463 Dec 15, 2017
+[871](0871.md): Re: [blupf90] Where is progsf90.tar.gz??? by Shogo Tsuruta Dec 14, 2017
+[870](0870.md): Re: [blupf90] Where is progsf90.tar.gz??? by Marnin Wolfe Dec 14, 2017
+[869](0869.md): Re: [blupf90] Where is progsf90.tar.gz??? by Ignacy Misztal Dec 14, 2017
+[868](0868.md): PostGSF90 window_variance by chpalaiok@gmail.com Dec 12, 2017
+[867](0867.md): Where is progsf90.tar.gz??? by wolfemd@gmail.com Dec 12, 2017
+[866](0866.md): Fixed effect in dairy cattle by geneneticaganadera.inia Dec 6, 2017
+[865](0865.md): Fw: n by sinan dh Dec 6, 2017
+[864](0864.md): n by sinan dh Dec 6, 2017
+[863](0863.md): Re: multi-character analysis , ssGBLUP by Shogo Tsuruta Nov 26, 2017
+[862](0862.md): Re: multi-character analysis , ssGBLUP by gleyson.vieira Nov 26, 2017
+[861](0861.md): Re: multi-character analysis , ssGBLUP by Shogo Tsuruta Nov 17, 2017
+[860](0860.md): multi-character analysis , ssGBLUP by gleyson.vieira Nov 17, 2017
+[859](0859.md): Variance Contemporary Groups by diegopagung Oct 3, 2017
+[858](0858.md): Re: GEBV from predf90 by bhpark70@gmail.com Sep 29, 2017
+[857](0857.md): Re: [blupf90] GEBV from predf90 by Gleyson Vieira Sep 27, 2017
+[856](0856.md): Re: [blupf90] GEBV from predf90 by Daniela Lourenco Sep 26, 2017
+[855](0855.md): GEBV from predf90 by bhpark70@gmail.com Sep 25, 2017
+[854](0854.md): estimates of the variance components by gleyson.vieira Aug 25, 2017
+[852](0852.md): Re: [blupf90] parameterizing a combined model by Dr. Andreas Hoppe Jul 28, 2017
+[851](0851.md): Re: [blupf90] parameterizing a combined model by Ignacy Misztal Jul 27, 2017
+[850](0850.md): parameterizing a combined model by Dr. Andreas Hoppe Jul 27, 2017
+[849](0849.md): how to set number of threads by caveman.pl Jul 26, 2017
+[848](0848.md): POSTOUT: with mean of estimate what (MCE, PSD, PD95%) should be provided by gopal_gowane Jul 18, 2017
+[847](0847.md): Re: two-trait model (a trait with repeated measure) by alanpardo692003 Jul 15, 2017
+[846](0846.md): two-trait model (a trait with repeated measure) by alanpardo692003 Jul 15, 2017
+[845](0845.md): Re: [blupf90] new to Blupf90 by drbaqirvet Jul 5, 2017
+[844](0844.md): Re: [blupf90] new to Blupf90 by Daniela Lourenco Jul 4, 2017
+[843](0843.md): new to Blupf90 by drbaqirvet Jul 4, 2017
+[842](0842.md): Re: Help in random regression analysis by raimundonblobo Jun 27, 2017
+[841](0841.md): Help in random regression analysis by raimundonblobo Jun 27, 2017
+[840](0840.md): Re: Help with BlupF90 by gemg7235 Jun 26, 2017
+[839](0839.md): How many columns can be read by BlupF90? by gemg7235 Jun 26, 2017
+[838](0838.md): Re: accuracy with thrgibbs1f90 by Shogo Tsuruta Jun 25, 2017
+[837](0837.md): accuracy with thrgibbs1f90 by omarverde@gmail.com Jun 25, 2017
+[836](0836.md): Re: [blupf90] Re: THRGIBBS1F90 running by alanpardo692003 Jun 21, 2017
+[835](0835.md): Problem running gibbs2f90 by raimundonblobo Jun 14, 2017
+[834](0834.md): Re: custom kinship matrix in SNP effect estimation by richard.bernstein@hu-berlin.de Jun 13, 2017
+[833](0833.md): Re: [blupf90] problem with gnuplot by gopal gowane Jun 8, 2017
+[832](0832.md): Re: [blupf90] Re: Degrees of Belief in GIBBS1F90 by Ignacy Misztal Jun 7, 2017
+[831](0831.md): Re: [blupf90] Re: Degrees of Belief in GIBBS1F90 by Katrin TÃ¶pner Jun 7, 2017
+[830](0830.md): Re: [blupf90] Re: Degrees of Belief in GIBBS1F90 by gopal_gowane Jun 7, 2017
+[829](0829.md): Re: [blupf90] Re: Degrees of Belief in GIBBS1F90 by Ignacy Misztal Jun 6, 2017
+[828](0828.md): Re: [blupf90] Degrees of Belief in GIBBS1F90 by Katrin TÃ¶pner Jun 6, 2017
+[827](0827.md): Re: Degrees of Belief in GIBBS1F90 by katrin.toepner Jun 6, 2017
+[826](0826.md): Degrees of Belief in GIBBS1F90 by gopal_gowane Jun 6, 2017
+[825](0825.md): Re: [blupf90] Re: maternal permanent environment in airemlf90 by gopal_gowane Jun 6, 2017
+[824](0824.md): restart an analysis by evelynpmalfonzo Jun 2, 2017
+[823](0823.md): custom kinship matrix in SNP effect estimation by richard.bernstein@hu-berlin.de May 31, 2017
+[822](0822.md): Re: [blupf90] Re: maternal permanent environment in airemlf90 by Ignacy Misztal May 30, 2017
+[821](0821.md): Re: maternal permanent environment in airemlf90 by gopal_gowane May 29, 2017
+[820](0820.md): maternal permanent environment in airemlf90 by gopal_gowane May 29, 2017
+[819](0819.md): Re: [blupf90] Re: RENUMf90 by gopal gowane May 23, 2017
+[818](0818.md): G Matrix not symmetric by valente_ts May 23, 2017
+[817](0817.md): Re: Help with BlupF90 by valente_ts May 19, 2017
+[816](0816.md): Re: Help with BlupF90 by gemg7235 May 16, 2017
+[815](0815.md): Help with BlupF90 by gemg7235 May 16, 2017
+[814](0814.md): Re: [blupf90] Re: Help SE Heritability? Airemlf90 by Darlene dos Santos Daltro May 11, 2017
+[813](0813.md): Re: [blupf90] Re: Help SE Heritability? Airemlf90 by Breno Fragomeni May 11, 2017
+[812](0812.md): Re: [blupf90] Re: Help SE Heritability? Airemlf90 by Breno Fragomeni May 11, 2017
+[811](0811.md): Re: Help SE Heritability? Airemlf90 by darlenedaltro May 11, 2017
+[810](0810.md): Re: [blupf90] Help SE Heritability? Airemlf90 by Ste Bif May 11, 2017
+[809](0809.md): Re: [blupf90] Help SE Heritability? Airemlf90 by Breno Fragomeni May 11, 2017
+[808](0808.md): Help SE Heritability? Airemlf90 by darlenedaltro May 11, 2017
+[807](0807.md): Genomic heritability in BLUPF90 by QUOC KHANH DOAN May 3, 2017
+[806](0806.md): Re: Problem formating SNP file by grulock Apr 25 8:57 AM
+[805](0805.md): Problem formating SNP file by j.recoquillay Apr 25 8:33 AM
+[804](0804.md): Burn-in and n-th sample for POSTGIBBSF90 by katrin.toepner Apr 19 8:51 AM
+[803](0803.md): Hyper-parameters of covariance prior distribution by katrin.toepner Apr 18 2:14 AM
+[802](0802.md): NRM in BLUPF90 by gopal_gowane Apr 13 3:00 AM
+[801](0801.md): Problem in running renumf90 by asigdel7731 Apr 3 7:47 AM
+[800](0800.md): Re: [blupf90] Re: The problems of THREGIBBS1F90 in BLUPF90 by QUOC KHANH DOAN Mar 24, 2017
+[799](0799.md): Re: [blupf90] Re: The problems of THREGIBBS1F90 in BLUPF90 by Breno Fragomeni Mar 23, 2017
+[798](0798.md): Re: [blupf90] Re: The problems of THREGIBBS1F90 in BLUPF90 by QUOC KHANH DOAN Mar 23, 2017
+[797](0797.md): Re: The problems of THREGIBBS1F90 in BLUPF90 by j.recoquillay Mar 23, 2017
+[796](0796.md): The problems of THREGIBBS1F90 in BLUPF90 by j4xn6pnwdsdv3pjbz2sgkpitnw5jezijiltnxzqv Mar 23, 2017
+[795](0795.md): Re: Diagonal entries in the Relationship matrix by Daniela Lourenco Mar 13, 2017
+[794](0794.md): Diagonal entries in the Relationship matrix by Dr. Andreas Hoppe Mar 13, 2017
+[793](0793.md): logl and AIC extremly change by talebsadegh55 Feb 24, 2017
+[792](0792.md): problem with gnuplot by mohamede11_salem Feb 12, 2017
+[791](0791.md): Blupf90 page http://nce.ads.uga.edu/ by fariaras Feb 11, 2017
+[790](0790.md): Re: predf90 by ynatividade15 Feb 3, 2017
+[789](0789.md): Re: [blupf90] Re: predf90 by Breno Fragomeni Feb 3, 2017
+[786](0786.md): Re: RENUMf90 by ynatividade15 Jan 31, 2017
+[784](0784.md): Re: Model with multiple animal genetic effects by f_tiezzi@ncsu.edu Jan 26, 2017
+[783](0783.md): Re: [blupf90] Model with multiple animal genetic effects by Breno Fragomeni Jan 26, 2017
+[782](0782.md): Model with multiple animal genetic effects by f_tiezzi@ncsu.edu Jan 26, 2017
+[781](0781.md): Re: [blupf90] RENUMf90 by gopal gowane Jan 5, 2017
+[780](0780.md): RENUMf90 by gopal gowane Jan 5, 2017
+[779](0779.md): Re: [blupf90] consecutive grouped effects in parameter file by Ignacy Misztal Jan 5, 2017
+[778](0778.md): Re: [blupf90] consecutive grouped effects in parameter file by Facundo_Mu=c3=b1oz Jan 5, 2017
+[777](0777.md): Re: [blupf90] consecutive grouped effects in parameter file by Facundo_Mu=c3=b1oz Jan 5, 2017
+[776](0776.md): Re: [blupf90] consecutive grouped effects in parameter file by Ignacy Misztal Jan 5, 2017
+[775](0775.md): consecutive grouped effects in parameter file by Facundo_Mu=c3=b1oz Jan 5, 2017
+[774](0774.md): Re: [blupf90] Blupf90 - additive animal with unknown parent groups by Ignacy Misztal Jan 3, 2017
+[773](0773.md): Blupf90 - additive animal with unknown parent groups by ste.bif68@gmail.com Jan 3, 2017
+[772](0772.md): Re: [blupf90] Seekparentf90 call rate by Ignacio Aguilar Dec 2, 2016
+[771](0771.md): Seekparentf90 call rate by jwbucha Dec 1, 2016
+[770](0770.md): single step, gblup by gopal_gowane Oct 24, 2016
+[769](0769.md): Re: [blupf90] can I use BLUPF90 in windows by gopal gowane Oct 24, 2016
+[768](0768.md): Re: [blupf90] can I use BLUPF90 in windows by rostam abdollahi Oct 24, 2016
+[767](0767.md): can I use BLUPF90 in windows by gopal_gowane Oct 23, 2016
+[766](0766.md): Re: Thrgibbs1f90 fix starting values by zengxi1130 Oct 23, 2016
+[765](0765.md): Re: Thrgibbs1f90 fix starting values by Shogo Tsuruta Oct 17, 2016
+[764](0764.md): Thrgibbs1f90 fix starting values by zengxi1130 Oct 17, 2016
+[763](0763.md): Re: [blupf90] Is it possible to analyze binary traits in airemlf90 or remlf90? by rostam abdollahi Sep 15, 2016
+[762](0762.md): Is it possible to analyze binary traits in airemlf90 or remlf90? by lizyincast Sep 15, 2016
+[761](0761.md): Re: Problem with THRGIBBS1f90 and 1F90b by Shogo Tsuruta Sep 2, 2016
+[760](0760.md): Re: Problem with THRGIBBS1f90 and 1F90b by j.recoquillay Sep 2, 2016
+[759](0759.md): Re: Problem with THRGIBBS1f90 and 1F90b by Shogo Tsuruta Aug 26, 2016
+[758](0758.md): Re: Problem with THRGIBBS1f90 and 1F90b by j.recoquillay Aug 26, 2016
+[757](0757.md): Re: [blupf90] Error with new version of renumf90 (1.114) by Julie Hamon Aug 24, 2016
+[756](0756.md): Re: [blupf90] Error with new version of renumf90 (1.114) by Shogo Tsuruta Aug 24, 2016
+[755](0755.md): Re: Problem with THRGIBBS1f90 and 1F90b by Shogo Tsuruta Aug 24, 2016
+[754](0754.md): Re: [blupf90] Error with new version of renumf90 (1.114) by Julie Hamon Aug 24, 2016
+[753](0753.md): Re: [blupf90] Error with new version of renumf90 (1.114) by Ignacio Aguilar Aug 24, 2016
+[752](0752.md): Divergence with REMLF90 and slow mixing in GIBBS* in genomic models by Ignacy Misztal Aug 24, 2016
+[751](0751.md): Error with new version of renumf90 (1.114) by Julie Hamon Aug 24, 2016
+[750](0750.md): Problem with THRGIBBS1f90 and 1F90b by j.recoquillay Aug 24, 2016
+[749](0749.md): Re: [blupf90] Mixed direct/direct-maternal model by Daniela Lourenco Aug 19, 2016
+[748](0748.md): Mixed direct/direct-maternal model by Dr. Andreas Hoppe Aug 19, 2016
+[747](0747.md): Error with new version of renumf90 (1.114) by Julie Hamon Aug 18, 2016
+[746](0746.md): (part 4) Creation of the universe by extraterrestrial Intelligence by mostafasalimdia1989 Aug 16, 2016
+[745](0745.md): RRM by siavashmanzoori@rocketmail.com Aug 13, 2016
+[744](0744.md): (part 3) Creation of the universe by extraterrestrial Intelligence by mostafasalimdia1989 Aug 13, 2016
+[743](0743.md): (part 2) Creation of the universe by extraterrestrial Intelligence by mostafasalimdia1989 Aug 9, 2016
+[742](0742.md): a cofactor with blupf90 family program by soumri.nabil Aug 8, 2016
+[741](0741.md): Re: [blupf90] Re: Prior distributions for linear-threshold model by Ignacy Misztal Aug 4, 2016
+[740](0740.md): Re: Prior distributions for linear-threshold model by jwbucha Aug 4, 2016
+[739](0739.md): Re: [blupf90] Prior distributions for linear-threshold model by Ignacy Misztal Aug 4, 2016
+[738](0738.md): Prior distributions for linear-threshold model by jwbucha Aug 3, 2016
+[737](0737.md): (part 1) Creation of the universe by extraterrestrial Intelligence by mostafasalimdia1989 Aug 3, 2016
+[735](0735.md): Re: [blupf90] Threshold vs linear by rostam abdollahi Jul 23, 2016
+[734](0734.md): Re: [blupf90] Threshold vs linear by mh_gholizadeh Jul 23, 2016
+[733](0733.md): Re: [blupf90] Threshold vs linear by mh_gholizadeh Jul 23, 2016
+[732](0732.md): Re: [blupf90] Threshold vs linear by Mohsen Gholizadeh Jul 23, 2016
+[731](0731.md): Re: [blupf90] Threshold vs linear by rama bangera Jul 20, 2016
+[730](0730.md): Blup Interface Automatically Exiting/Quiting by godswill_adeniyi Jul 20, 2016
+[729](0729.md): Re: [blupf90] Threshold vs linear by rostam abdollahi Jul 19, 2016
+[727](0727.md): Re: Random dams effect by j.recoquillay Jul 7, 2016
+[726](0726.md): Re: Random dams effect by yutakamasuda Jun 24, 2016
+[725](0725.md): Re: Random dams effect by j.recoquillay Jun 24, 2016
+[724](0724.md): Re: Relationship matrix by yutakamasuda Jun 23, 2016
+[723](0723.md): Re: bivariate model: RRM using heterogeneous residual with animal model by yutakamasuda Jun 23, 2016
+[722](0722.md): Re: DIC by yutakamasuda Jun 23, 2016
+[720](0720.md): Re: Random dams effect by yutakamasuda Jun 23, 2016
+[718](0718.md): Random dams effect by j.recoquillay Jun 14, 2016
+[717](0717.md): Re: Relationship matrix by uitde007 May 20, 2016
+[716](0716.md): DIC by mh_gholizadeh May 19, 2016
+[715](0715.md): Re: [blupf90] Re: option residual 1 in thrgibbs1F90 by kerstin.bruegemann May 18, 2016
+[714](0714.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by nongdaxiaokang May 17, 2016
+[713](0713.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by nongdaxiaokang May 14, 2016
+[712](0712.md): Re: [blupf90] Re: option residual 1 in thrgibbs1F90 by Shogo Tsuruta May 13, 2016
+[711](0711.md): Re: bivariate model: RRM using heterogeneous residual with animal model by lizyincast May 13, 2016
+[710](0710.md): Re: [blupf90] Re: option residual 1 in thrgibbs1F90 by kerstin.bruegemann May 13, 2016
+[709](0709.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by yutakamasuda May 12, 2016
+[708](0708.md): Re: bivariate model: RRM using heterogeneous residual with animal model by yutakamasuda May 12, 2016
+[707](0707.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by nongdaxiaokang May 12, 2016
+[706](0706.md): Re: bivariate model: RRM using heterogeneous residual with animal model by lizyincast May 11, 2016
+[704](0704.md): Re: bivariate model: RRM using heterogeneous residual with animal model by yutakamasuda May 11, 2016
+[703](0703.md): bivariate model: RRM using heterogeneous residual with animal model by lizyincast May 11, 2016
+[702](0702.md): Re: option residual 1 in thrgibbs1F90 by Shogo Tsuruta May 11, 2016
+[701](0701.md): Re: [blupf90] Fitting nested effects by Vinicius Junqueira May 11, 2016
+[700](0700.md): option residual 1 in thrgibbs1F90 by kerstin.bruegemann May 11, 2016
+[699](0699.md): Re: [blupf90] Fitting nested effects by Andres Legarra May 10, 2016
+[698](0698.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by yutakamasuda May 10, 2016
+[697](0697.md): Fitting nested effects by Vinicius Junqueira May 10, 2016
+[694](0694.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by nongdaxiaokang May 10, 2016
+[693](0693.md): Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by yutakamasuda May 9, 2016
+[692](0692.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by nongdaxiaokang May 8, 2016
+[691](0691.md): Re: Estimation of heritability by barbaramazetti May 2, 2016
+[690](0690.md): MCMCBLUP - binary trait by rama bangera May 1, 2016
+[689](0689.md): Re: Estimation of heritability by yutakamasuda Apr 28 1:33 PM
+[688](0688.md): Estimation of heritability by barbaramazetti Apr 28 10:43 AM
+[687](0687.md): Re: Missing value in AIREMLF90 / RENUMF90 by stevenjanssens7887 Apr 27 7:47 AM
+[686](0686.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by yutakamasuda Apr 25 10:33 AM
+[685](0685.md): Re: [blupf90] Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by nongdaxiaokang Apr 24 7:50 PM
+[684](0684.md): Re: Solutions for a restricted number of animals by yutakamasuda Apr 22 10:34 PM
+[683](0683.md): Re: Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by yutakamasuda Apr 22 10:29 PM
+[682](0682.md): Re: RENUMF90 parameter by x08101 Apr 22 1:55 PM
+[681](0681.md): Solutions for a restricted number of animals by m.santanajr Apr 22 8:34 AM
+[680](0680.md): Problems with setting priors for random effects and heterogeneous residual variance in gibbs3f90 by nongdaxiaokang Apr 18 5:22 AM
+[679](0679.md): RENUMF90 parameter by soumri.nabil Apr 15 7:25 AM
+[678](0678.md): Re: Genomic analysis of censored data by Shogo Tsuruta Apr 13 7:17 AM
+[677](0677.md): Genomic analysis of censored data by rocha_vet Apr 11 2:20 PM
+[676](0676.md): Re: Get the LHS of (part of) the MME in BlupF90 by yutakamasuda Apr 7 12:44 PM
+[675](0675.md): Re: Get the LHS of (part of) the MME in BlupF90 by stevenjanssens7887 Apr 7 5:28 AM
+[674](0674.md): Get the LHS of (part of) the MME in BlupF90 by stevenjanssens7887 Apr 7 5:25 AM
+[673](0673.md): Re: Installing Blupf90 by gemg7235 Apr 6 5:52 AM
+[672](0672.md): Re: Installing Blupf90 by yutakamasuda Apr 1 11:57 AM
+[671](0671.md): RE: [blupf90] Reduced animal model by Ignacy Misztal Apr 1 8:57 AM
+[670](0670.md): Installing Blupf90 by Gonzalo Martinez Apr 1 7:52 AM
+[669](0669.md): Re: [blupf90] gs3 - binary trait by rama bangera Mar 31, 2016
+[668](0668.md): RE: [blupf90] Fwd: RV: Reduced animal model by Sanchez, Juan Pablo Mar 31, 2016
+[667](0667.md): Re: [blupf90] Fwd: RV: Reduced animal model by Fernando F. Cardoso Mar 31, 2016
+[666](0666.md): Fwd: RV: Reduced animal model by Andres Legarra Mar 30, 2016
+[665](0665.md): Reduced animal model by Sanchez, Juan Pablo Mar 30, 2016
+[664](0664.md): Re: [blupf90] equivalent models? by Andres Legarra Mar 25, 2016
+[663](0663.md): Re: [blupf90] gs3 - binary trait by Andres Legarra Mar 20, 2016
+[662](0662.md): Re: [blupf90] equivalent models? by Facundo_Mu=c3=b1oz Mar 18, 2016
+[661](0661.md): Re: [blupf90] equivalent models? by Andres Legarra Mar 18, 2016
+[660](0660.md): Re: [blupf90] equivalent models? by Facundo_Mu=c3=b1oz Mar 17, 2016
+[659](0659.md): RE: [blupf90] equivalent models? [1 Attachment] by Sanchez, Juan Pablo Mar 17, 2016
+[658](0658.md): Re: [blupf90] equivalent models? by Facundo_Mu=c3=b1oz Mar 17, 2016
+[657](0657.md): Re: [blupf90] equivalent models? by Andres Legarra Mar 17, 2016
+[656](0656.md): Re: postgibbsf90 by Shogo Tsuruta Mar 16, 2016
+[655](0655.md): equivalent models? by Facundo_Mu=c3=b1oz Mar 16, 2016
+[654](0654.md): postgibbsf90 by sakine_abbasnejad Mar 15, 2016
+[653](0653.md): gs3 - binary trait by rama bangera Mar 15, 2016
+[652](0652.md): Covariance Structures by klpgaddis Mar 14, 2016
+[651](0651.md): Re: [blupf90] A matrix by giftgold21 Mar 8, 2016
+[650](0650.md): Re: [blupf90] A matrix by Ignacy Misztal Mar 8, 2016
+[649](0649.md): A matrix by giftgold21 Mar 8, 2016
+[648](0648.md): Request your help in a doubt i have (Threshold model in THRGIBBS1F90) by fariaras Feb 26, 2016
+[647](0647.md): Heritability from POSTGIBBSF90 by abokhadiga Feb 25, 2016
+[646](0646.md): Re: [blupf90] kinship matrix option [4 Attachments] by Andres Legarra Feb 19, 2016
+[645](0645.md): Re: [blupf90] kinship matrix option by lw2671 Feb 19, 2016
+[644](0644.md): Re: [blupf90] kinship matrix option by Andres Legarra Feb 19, 2016
+[643](0643.md): kinship matrix option by lw2671 Feb 19, 2016
+[642](0642.md): Re: [blupf90] evaluating significance of h2 estimates from AIREMLF90 by Andres Legarra Feb 19, 2016
+[641](0641.md): Re: evaluating significance of h2 estimates from AIREMLF90 by elimeyer76 Feb 18, 2016
+[640](0640.md): Re: evaluating significance of h2 estimates from AIREMLF90 by Shogo Tsuruta Feb 18, 2016
+[639](0639.md): evaluating significance of h2 estimates from AIREMLF90 by elimeyer76 Feb 18, 2016
+[638](0638.md): Re: [blupf90] Re: airemlf90 on MAC by Chris Feb 10, 2016
+[637](0637.md): Re: airemlf90 on MAC by Shogo Tsuruta Feb 9, 2016
+[636](0636.md): airemlf90 on MAC by bigwideworld2001 Feb 9, 2016
+[635](0635.md): Accuracy of EBV from thrigibbs1f90 by zengxi1130 Feb 5, 2016
+[634](0634.md): Re: [blupf90] How can change A matrix to Identity matrix by Andres Legarra Feb 5, 2016
+[633](0633.md): (last part) Jews, Christians, and Muslims by mostafasalimdia1989 Feb 4, 2016
+[632](0632.md): (part 5) The Mysterious Designs of Infinity by mostafasalimdia1989 Feb 4, 2016
+[631](0631.md): (part 2a) My Mysterious Story with Death and Destiny by mostafasalimdia1989 Feb 4, 2016
+[630](0630.md): (part 4) The Big Bang, Evolution, and The Real Adam by mostafasalimdia1989 Feb 4, 2016
+[629](0629.md): (part 3) The Ultimate Goal of Humanity by mostafasalimdia1989 Feb 4, 2016
+[628](0628.md): (part 2b) My Mysterious Story with Death and Destiny by mostafasalimdia1989 Feb 4, 2016
+[627](0627.md): (part 1) The Absolute Mystery of Existence by mostafasalimdia1989 Feb 4, 2016
+[626](0626.md): How can change A matrix to Identity matrix by Hossein Naeemipour Feb 4, 2016
+[625](0625.md): Re: [blupf90] Standard error of the phenotpic variance by Andres Legarra Feb 4, 2016
+[624](0624.md): Standard error of the phenotpic variance by giftgold21 Feb 4, 2016
+[623](0623.md): Re: [blupf90] Question by gift gold Feb 3, 2016
+[622](0622.md): Re: [blupf90] Question by Andres Legarra Feb 3, 2016
+[621](0621.md): Question by giftgold21 Feb 3, 2016
+[620](0620.md): additional option for gibbs*f90 programs by Sanchez, Juan Pablo Dec 15, 2015
+[619](0619.md): Re: [blupf90] by Andres Legarra Dec 14, 2015
+[618](0618.md):  by Amin Yousefi Dec 12, 2015
+[617](0617.md): Re: [blupf90] Questions - THRGIBBS1f90 and GIBBS1f90 by Andres Legarra Dec 9, 2015
+[616](0616.md): Questions - THRGIBBS1f90 and GIBBS1f90 by rama bangera Dec 7, 2015
+[615](0615.md): Re: [blupf90] How to calculate accuracy of GEBV estimated by ssGBLUP? by Ignacy Misztal Dec 4, 2015
+[614](0614.md): Re: [blupf90] How to calculate accuracy of GEBV estimated by ssGBLUP? by valente_ts Dec 4, 2015
+[613](0613.md): Re: [blupf90] How to calculate accuracy of GEBV estimated by ssGBLUP? by Ignacy Misztal Dec 4, 2015
+[612](0612.md): How to calculate accuracy of GEBV estimated by ssGBLUP? by valente_ts Dec 4, 2015
+[611](0611.md): Re: Productive life analysis by Shogo Tsuruta Dec 1, 2015
+[610](0610.md): Productive life analysis by Juliana Petrini Nov 30, 2015
+[609](0609.md): Re: [blupf90] Re: Heterogeneous residual variance in AIREMLF90 by Juliana Petrini Nov 24, 2015
+[608](0608.md): Re: [blupf90] Re: Heterogeneous residual variance in AIREMLF90 by Shogo Tsuruta Nov 24, 2015
+[607](0607.md): Re: [blupf90] Re: Heterogeneous residual variance in AIREMLF90 by Juliana Petrini Nov 24, 2015
+[606](0606.md): Re: [blupf90] Re: Heterogeneous residual variance in AIREMLF90 by Shogo Tsuruta Nov 24, 2015
+[605](0605.md): Re: [blupf90] Re: Heterogeneous residual variance in AIREMLF90 by Juliana Petrini Nov 24, 2015
+[604](0604.md): Re: Heterogeneous residual variance in AIREMLF90 by Shogo Tsuruta Nov 23, 2015
+[603](0603.md): Heterogeneous residual variance in AIREMLF90 by Juliana Petrini Nov 23, 2015
+[602](0602.md): Re: [blupf90] ACCF90 by zengxi1130 Nov 23, 2015
+[601](0601.md): Re: [blupf90] gs3: a priori distribution for variances by Andres Legarra Nov 23, 2015
+[600](0600.md): gs3: a priori distribution for variances by Leopoldo Sanchez Nov 23, 2015
+[599](0599.md): Re: [blupf90] Re: linux/32bit/airemlf90 outdated by Facundo_Mu=c3=b1oz Nov 20, 2015
+[598](0598.md): Re: linux/32bit/airemlf90 outdated by Shogo Tsuruta Nov 19, 2015
+[597](0597.md): linux/32bit/airemlf90 outdated by Facundo_Mu=c3=b1oz Nov 19, 2015
+[596](0596.md): seekparentf90 documentation by jansen_gerald Nov 18, 2015
+[595](0595.md): Re: [blupf90] missing values in effects [1 Attachment] by Ignacy Misztal Nov 17, 2015
+[594](0594.md): missing values in effects by Facundo_Mu=c3=b1oz Nov 17, 2015
+[593](0593.md): Re: [blupf90] ACCF90 by Andres Legarra Nov 17, 2015
+[592](0592.md): ACCF90 by zengxi1130 Nov 16, 2015
+[591](0591.md): RE: [blupf90] Re: Heterogeneous residual variance in RRM by Vinicius Junqueira Nov 11, 2015
+[590](0590.md): Re: Heterogeneous residual variance in RRM by yutakamasuda Nov 10, 2015
+[589](0589.md): Re: [blupf90] Appropriate scaling of breeding value estimates with single-step by jwbucha Nov 10, 2015
+[588](0588.md): Re: [blupf90] Appropriate scaling of breeding value estimates with single-step by Ignacy Misztal Nov 10, 2015
+[587](0587.md): Appropriate scaling of breeding value estimates with single-step by jwbucha Nov 9, 2015
+[586](0586.md): Re: [blupf90] HBLUP with 10 traits by sebmucha Nov 5, 2015
+[585](0585.md): Re: [blupf90] HBLUP with 10 traits by sebmucha Nov 5, 2015
+[584](0584.md): Re: [blupf90] HBLUP with 10 traits by Andres Legarra Nov 4, 2015
+[583](0583.md): Re: [blupf90] HBLUP with 10 traits by Daniela Lourenco Nov 4, 2015
+[582](0582.md): HBLUP with 10 traits by sebmucha Nov 4, 2015
+[581](0581.md): Heterogeneous residual variance in RRM by Vinicius Junqueira Nov 3, 2015
+[580](0580.md): Re: [blupf90] GS3- Variance by rama bangera Oct 27, 2015
+[579](0579.md): Re: [blupf90] GS3- accuracy calculation by Andres Legarra Oct 21, 2015
+[578](0578.md): GS3- accuracy calculation by rama bangera Oct 21, 2015
+[577](0577.md): Re: [blupf90] issues running GS3 by Andres Legarra Oct 20, 2015
+[576](0576.md): RE: [blupf90] issues running GS3 by Alex Brown Oct 20, 2015
+[575](0575.md): Re: [blupf90] issues running GS3 by Andres Legarra Oct 15, 2015
+[574](0574.md): Re: [blupf90] blupf90 for high density genotypes by Daniela Lourenco Oct 13, 2015
+[573](0573.md): blupf90 for high density genotypes by Alex Brown Oct 13, 2015
+[572](0572.md): RE: [blupf90] issues running GS3 by Alex Brown Oct 12, 2015
+[571](0571.md): Re: [blupf90] issues running GS3 [3 Attachments] by Andres Legarra Oct 12, 2015
+[570](0570.md): issues running GS3 by Alex Brown Oct 11, 2015
+[569](0569.md): Re: [blupf90] GS3 questions by Andres Legarra Oct 8, 2015
+[568](0568.md): GS3 questions by rama bangera Oct 8, 2015
+[567](0567.md): Residuals in the new versions of gibbs*f90 programs by Sanchez, Juan Pablo Oct 2, 2015
+[566](0566.md): Re: [blupf90] Re: binary format of files from preGSf90 by Daniela Lourenco Sep 30, 2015
+[565](0565.md): Re: binary format of files from preGSf90 by jansen_gerald Sep 29, 2015
+[564](0564.md): Re: [blupf90] failing to run (ai)remlf90 on Windows by Facundo_Mu=c3=b1oz Sep 28, 2015
+[563](0563.md): Re: [blupf90] failing to run (ai)remlf90 on Windows [1 Attachment] by Daniela Lourenco Sep 28, 2015
+[562](0562.md): failing to run (ai)remlf90 on Windows by Facundo_Mu=c3=b1oz Sep 28, 2015
+[561](0561.md): Re: [blupf90] binary format of files from preGSf90 by Daniela Lourenco Sep 25, 2015
+[560](0560.md): Re: [blupf90] binary format of files from preGSf90 by Andres Legarra Sep 25, 2015
+[559](0559.md): Re: [blupf90] binary format of files from preGSf90 by Daniela Lourenco Sep 25, 2015
+[558](0558.md): binary format of files from preGSf90 by jansen_gerald Sep 25, 2015
+[557](0557.md): Re: [blupf90] single-step blup - disease trait - estimation problems by rama bangera Sep 18, 2015
+[556](0556.md): Re: [blupf90] single-step blup - disease trait - estimation problems by Andres Legarra Sep 18, 2015
+[555](0555.md): Re: Is pedigree a requirement for GBLUP? by jwbucha Sep 16, 2015
+[554](0554.md): single-step blup - disease trait - estimation problems by rama bangera Sep 16, 2015
+[553](0553.md): Re: [blupf90] Is pedigree a requirement for GBLUP? by Andres Legarra Sep 16, 2015
+[552](0552.md): Re: [blupf90] Is pedigree a requirement for GBLUP? by Ignacy Misztal Sep 15, 2015
+[551](0551.md): Is pedigree a requirement for GBLUP? by jwbucha Sep 15, 2015
+[550](0550.md): Re: [blupf90] How to calculate (G)EBV accuracy based on BLUPF90 solution by Ignacy Misztal Sep 4, 2015
+[549](0549.md): How to calculate (G)EBV accuracy based on BLUPF90 solution by tancheng22 Sep 2, 2015
+[548](0548.md): RE: [blupf90] Precision of (printed) estimates in REMLF90 by Ignacy Misztal Aug 28, 2015
+[547](0547.md): Re: [blupf90] Precision of (printed) estimates in REMLF90 by Andres Legarra Aug 28, 2015
+[546](0546.md): Precision of (printed) estimates in REMLF90 by stevenjanssens7887 Aug 28, 2015
+[545](0545.md): illumina2preGS by bryanirvinelopez Aug 18, 2015
+[544](0544.md): Re: [blupf90] Re: THRGIBBS1F90 running by Andres Legarra Jul 16, 2015
+[543](0543.md): Re: THRGIBBS1F90 running by nguyen_tuan393 Jul 16, 2015
+[542](0542.md): Normalization of SNP weights for ssGWAS by jukebop Jul 15, 2015
+[541](0541.md): Re: [blupf90] missing levels and degrees of freedon of random effects in gibbs programs by Andres Legarra Jul 15, 2015
+[540](0540.md): RE: [blupf90] missing levels and degrees of freedon of random effects in gibbs programs by Sanchez, Juan Pablo Jul 15, 2015
+[539](0539.md): Re: [blupf90] effective population size of big data by Andres Legarra Jul 15, 2015
+[538](0538.md): Re: [blupf90] missing levels and degrees of freedon of random effects in gibbs programs by Andres Legarra Jul 15, 2015
+[537](0537.md): missing levels and degrees of freedon of random effects in gibbs programs by Sanchez, Juan Pablo Jul 10, 2015
+[536](0536.md): effective population size of big data by edsonviniciuscostaufv Jul 9, 2015
+[535](0535.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jul 5, 2015
+[534](0534.md): Re: [blupf90] Re: THRGIBBS1F90 running by Shogo Tsuruta Jul 2, 2015
+[533](0533.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jul 2, 2015
+[532](0532.md): Re: [blupf90] Re: THRGIBBS1F90 running by Shogo Tsuruta Jul 1, 2015
+[531](0531.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jul 1, 2015
+[530](0530.md): Re: [blupf90] Re: THRGIBBS1F90 running by Shogo Tsuruta Jun 30, 2015
+[529](0529.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jun 30, 2015
+[528](0528.md): Re: [blupf90] Re: THRGIBBS1F90 running by Shogo Tsuruta Jun 30, 2015
+[527](0527.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jun 30, 2015
+[526](0526.md): User defined matrix by Vinicius Junqueira Jun 29, 2015
+[525](0525.md): Two-trait analyses (with repeated measures) by Juliana Petrini Jun 27, 2015
+[524](0524.md): PostGSf90 - Problem running by rm_bangera Jun 22, 2015
+[523](0523.md): G matrix by Juliana Petrini Jun 21, 2015
+[522](0522.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jun 17, 2015
+[521](0521.md): Re: [blupf90] Re: THRGIBBS1F90 running by Andres Legarra Jun 17, 2015
+[520](0520.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jun 16, 2015
+[519](0519.md): comparing linear and threshold models by gabrielcampos_86 Jun 15, 2015
+[518](0518.md): Re: [blupf90] Re: THRGIBBS1F90 running by Andres Legarra Jun 15, 2015
+[517](0517.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jun 15, 2015
+[516](0516.md): Re: [blupf90] Re: THRGIBBS1F90 running by Andres Legarra Jun 15, 2015
+[515](0515.md): Re: [blupf90] Re: THRGIBBS1F90 running by nguyen_tuan393 Jun 12, 2015
+[514](0514.md): Re: [blupf90] Re: THRGIBBS1F90 running by Andres Legarra Jun 11, 2015
+[513](0513.md): Re: THRGIBBS1F90 running by nguyen_tuan393 Jun 11, 2015
+[512](0512.md): Re: THRGIBBS1F90 running by Shogo Tsuruta Jun 10, 2015
+[511](0511.md): Re: THRGIBBS1F90 running by nguyen_tuan393 Jun 10, 2015
+[510](0510.md): Re: THRGIBBS1F90 running by Shogo Tsuruta Jun 9, 2015
+[509](0509.md): THRGIBBS1F90 running by nguyen_tuan393 Jun 9, 2015
+[508](0508.md): Re: [blupf90] "hash table search too slow" from INBUPGF90 by John Cole Jun 5, 2015
+[507](0507.md): Re: [blupf90] "hash table search too slow" from INBUPGF90 by Ignacio Aguilar Jun 5, 2015
+[506](0506.md): "hash table search too slow" from INBUPGF90 by John Cole Jun 5, 2015
+[505](0505.md): Re: [blupf90] Two-trait analysis: RR and single-measure trait by Rodrigo Junqueira Pereira May 25, 2015
+[504](0504.md): Re: [blupf90] Two-trait analysis: RR and single-measure trait by Shogo Tsuruta May 24, 2015
+[503](0503.md): Re: [blupf90] Two-trait analysis: RR and single-measure trait by Andres Legarra May 24, 2015
+[502](0502.md): Re: [blupf90] Hi and request by Hossein Naeemipour May 24, 2015
+[501](0501.md): Re: [blupf90] Hi and request by amir amiri May 24, 2015
+[500](0500.md): Re: [blupf90] Hi and request by Hossein Naeemipour May 24, 2015
+[499](0499.md): Re: [blupf90] Hi and request by amir amiri May 24, 2015
+[498](0498.md): Hi and request by Hossein Naeemipour May 23, 2015
+[497](0497.md): Running BLUPf90 program with 20,000,000 records from1500,000 animals Using Random regression by rostam7474 May 23, 2015
+[496](0496.md): Re: [blupf90] Two-trait analysis: RR and single-measure trait by Rodrigo Junqueira Pereira May 22, 2015
+[495](0495.md): Re: [blupf90] Two-trait analysis: RR and single-measure trait by Juan Pablo Sanchez [IRTA] May 22, 2015
+[494](0494.md): Two-trait analysis: RR and single-measure trait by rodjunper May 22, 2015
+[493](0493.md): Censored data by henriquetorresventura May 19, 2015
+[492](0492.md): Re: [blupf90] Matching BV with animal IDs by Breno Fragomeni Apr 29 5:12 PM
+[491](0491.md): Matching BV with animal IDs by mikedobson253 Apr 29 4:58 PM
+[489](0489.md): RE: [blupf90] Dominance effect on airemlf90 by Vinicius Junqueira Apr 17 8:01 AM
+[488](0488.md): Re: Negative residual variance running airemlf90 with random regression model by Shogo Tsuruta Apr 17 7:47 AM
+[487](0487.md): Negative residual variance running airemlf90 with random regression model by henriquetorresventura Apr 17 3:19 AM
+[486](0486.md): Re: [blupf90] Dominance effect on airemlf90 by Andres Legarra Apr 16 11:55 PM
+[485](0485.md): Re: [blupf90] Dominance effect on airemlf90 by Vinicius Junqueira Apr 16 11:10 AM
+[484](0484.md): Re: [blupf90] Dominance effect on airemlf90 [1 Attachment] by Andres Legarra Apr 16 8:27 AM
+[483](0483.md): Re: [blupf90] Dominance effect on airemlf90 by Vinicius Junqueira Apr 16 8:22 AM
+[482](0482.md): Re: [blupf90] Dominance effect on airemlf90 by Andres Legarra Apr 16 8:12 AM
+[481](0481.md): Re: [blupf90] Dominance effect on airemlf90 by Vinicius Junqueira Apr 16 7:44 AM
+[480](0480.md): Re: [blupf90] Dominance effect on airemlf90 by Andres Legarra Apr 16 6:08 AM
+[479](0479.md): Dominance effect on airemlf90 by Vinicius Junqueira Apr 16 5:56 AM
+[478](0478.md): RE: [blupf90] Re: Gibbs2.f90 by Vinicius Junqueira Apr 6 9:57 AM
+[477](0477.md): Re: Gibbs2.f90 by Shogo Tsuruta Apr 6 8:56 AM
+[476](0476.md): Re: [blupf90] Re: Error in AIREMLF90 with a SNP file by Juliana Petrini Apr 6 8:52 AM
+[475](0475.md): Re: Error in AIREMLF90 with a SNP file by Shogo Tsuruta Apr 6 8:26 AM
+[474](0474.md): Error in AIREMLF90 with a SNP file by Juliana Petrini Apr 6 8:16 AM
+[473](0473.md): Gibbs2.f90 by Vinicius Junqueira Apr 6 5:41 AM
+[472](0472.md): Standard error in AIREMLF90 by Juliana Petrini Apr 4 12:02 PM
+[471](0471.md): Re: [blupf90] Thrgibbs1f90 by marteduarte Apr 1 8:47 AM
+[469](0469.md): Re: [blupf90] Thrgibbs1f90 by Andres Legarra Apr 1 7:16 AM
+[468](0468.md): Thrgibbs1f90 by marteduarte Apr 1 7:07 AM
+[467](0467.md): Re: [blupf90] Phenotypic correlation by Shogo Tsuruta Mar 19, 2015
+[466](0466.md): Phenotypic correlation by Juliana Petrini Mar 19, 2015
+[465](0465.md): Re: Missing value in AIREMLF90 by jukebop Mar 19, 2015
+[464](0464.md): Re: Missing value in AIREMLF90 by Shogo Tsuruta Mar 19, 2015
+[463](0463.md): Missing value in AIREMLF90 by Juliana Petrini Mar 18, 2015
+[462](0462.md): Problem of illumina2pregs by bodinwongpom Mar 18, 2015
+[461](0461.md): Re: [blupf90] INBUPGF90 by Ignacio Aguilar Mar 17, 2015
+[460](0460.md): INBUPGF90 by henriquetorresventura Mar 17, 2015
+[459](0459.md): Re: Blupf90 by Shogo Tsuruta Mar 14, 2015
+[458](0458.md): Re: [blupf90] Blupf90 by Daniela Lourenco Mar 14, 2015
+[457](0457.md): Blupf90 by a.jannoune Mar 14, 2015
+[456](0456.md): RE: [blupf90] Weird behaviour of gibbs1f90 in model for fitting social interactions by Ignacy Misztal Mar 6, 2015
+[455](0455.md): RE: [blupf90] Weird behaviour of gibbs1f90 in model for fitting social interactions by Sanchez, Juan Pablo Mar 6, 2015
+[454](0454.md): Re: [blupf90] Weird behaviour of gibbs1f90 in model for fitting social interactions by Manuel Ramon Mar 6, 2015
+[453](0453.md): Re: [blupf90] Weird behaviour of gibbs1f90 in model for fitting social interactions by Manuel Ramon Mar 6, 2015
+[452](0452.md): Weird behaviour of gibbs1f90 in model for fitting social interactions by Sanchez, Juan Pablo Mar 6, 2015
+[451](0451.md): RE: [blupf90] d by Ignacy Misztal Mar 5, 2015
+[450](0450.md): RE: [blupf90] d by Ignacy Misztal Mar 5, 2015
+[449](0449.md): d by jindog2929 Mar 4, 2015
+[448](0448.md): RE: [blupf90] Re: aireml step size by Shogo Tsuruta Feb 25, 2015
+[447](0447.md): RE: [blupf90] Re: aireml step size by Sanchez, Juan Pablo Feb 25, 2015
+[446](0446.md): Re: [blupf90] Re: aireml step size by Andres Legarra Feb 25, 2015
+[445](0445.md): EBV errors by orlandozoot Feb 24, 2015
+[444](0444.md): Re: [blupf90] Re: aireml step size by Juan Pablo Sanchez [IRTA] Feb 20, 2015
+[443](0443.md): Re: aireml step size by Shogo Tsuruta Feb 20, 2015
+[442](0442.md): aireml step size by Sanchez, Juan Pablo Feb 19, 2015
+[441](0441.md): Re: wiki and webpages by Shogo Tsuruta Feb 4, 2015
+[440](0440.md): wiki and webpages by soloboan Feb 4, 2015
+[439](0439.md): Re: [blupf90] Which application in BLUPf90 works for Reaction norm (i.e. G by E study) by Ignacy Misztal Jan 22, 2015
+[438](0438.md): Which application in BLUPf90 works for Reaction norm (i.e. G by E study) by luyongfa1989 Jan 22, 2015
+[437](0437.md): Re: [blupf90] Re: airemlf90 AIC interpretation by Julie Hamon Jan 20, 2015
+[436](0436.md): Re: [blupf90] Re: airemlf90 AIC interpretation by Andres Legarra Jan 16, 2015
+[435](0435.md): Re: airemlf90 AIC interpretation by Julie Hamon Jan 16, 2015
+[434](0434.md): airemlf90 AIC interpretation by Julie Hamon Jan 16, 2015
+[433](0433.md): Re: [blupf90] Re: Low correlation between G and A22 diagonal terms by marcelofreitasbrf Dec 19, 2014
+[432](0432.md): Re: [blupf90] Re: Low correlation between G and A22 diagonal terms by marcelofreitasbrf Dec 19, 2014
+[431](0431.md): Re: [blupf90] Re: Low correlation between G and A22 diagonal terms by rocha_vet Dec 19, 2014
+[430](0430.md): Re: Low correlation between G and A22 diagonal terms by marcelofreitasbrf Dec 19, 2014
+[429](0429.md): Re: [blupf90] Re: Low correlation between G and A22 diagonal terms by Andres Legarra Dec 19, 2014
+[428](0428.md): Re: Low correlation between G and A22 diagonal terms by marcelofreitasbrf Dec 18, 2014
+[427](0427.md): Re: Low correlation between G and A22 diagonal terms by marcelofreitasbrf Dec 16, 2014
+[426](0426.md): Re: [blupf90] Low correlation between G and A22 diagonal terms by Andres Legarra Dec 16, 2014
+[425](0425.md): Re: [blupf90] Low correlation between G and A22 diagonal terms by rocha_vet Dec 15, 2014
+[424](0424.md): Low correlation between G and A22 diagonal terms by marcelofreitasbrf Dec 15, 2014
+[423](0423.md): Re: [blupf90] How to specify Degree of belif for multivariate model in gibbs3f90 by Ignacio Aguilar Dec 8, 2014
+[422](0422.md): How to specify Degree of belif for multivariate model in gibbs3f90 by luyongfa1989 Dec 6, 2014
+[421](0421.md): Re: [blupf90] Doing GWAS with postgsf90 using deregressed PTA as phenotypes by Ignacy Misztal Dec 2, 2014
+[420](0420.md): Doing GWAS with postgsf90 using deregressed PTA as phenotypes by John Cole Dec 2, 2014
+[419](0419.md): Re: The variance estimated by AIREML was out of the parameter space by tokamur Nov 18, 2014
+[418](0418.md): Re: The variance estimated by AIREML was out of the parameter space by Shogo Tsuruta Nov 18, 2014
+[417](0417.md): The variance estimated by AIREML was out of the parameter space by tokamur Nov 17, 2014
+[416](0416.md): RE: [blupf90] Re: airemlf90 convergence issue? by Shogo Tsuruta Nov 14, 2014
+[415](0415.md): RE: [blupf90] Re: airemlf90 convergence issue? by Sanchez, Juan Pablo Nov 14, 2014
+[414](0414.md): Re: airemlf90 convergence issue? by Shogo Tsuruta Nov 14, 2014
+[413](0413.md): airemlf90 convergence issue? by Sanchez, Juan Pablo Nov 14, 2014
+[412](0412.md): Re: [blupf90] Warning in aireml: G not positive definite: fixed (setup_g) by Shogo Tsuruta Nov 13, 2014
+[411](0411.md): Re: [blupf90] Warning in aireml: G not positive definite: fixed (setup_g) by Andres Legarra Nov 13, 2014
+[410](0410.md): Re: [blupf90] Warning in aireml: G not positive definite: fixed (setup_g) by agngenetics Nov 13, 2014
+[409](0409.md): Re: [blupf90] Warning in aireml: G not positive definite: fixed (setup_g) by Andres Legarra Nov 13, 2014
+[408](0408.md): Warning in aireml: G not positive definite: fixed (setup_g) by agngenetics Nov 13, 2014
+[407](0407.md): Re: predf90 by Daniela Lourenco Nov 10, 2014
+[406](0406.md): Re: predf90 by Daniela Lourenco Nov 10, 2014
+[405](0405.md): Re: predf90 by sebastianmucha8 Nov 10, 2014
+[404](0404.md): Re: predf90 by sebastianmucha8 Nov 10, 2014
+[403](0403.md): Re: heterogenous variance remlf90/aireml by Shogo Tsuruta Nov 5, 2014
+[402](0402.md): Re: heterogenous variance remlf90/aireml by agngenetics Nov 5, 2014
+[401](0401.md): Re: heterogenous variance remlf90/aireml by Shogo Tsuruta Nov 5, 2014
+[400](0400.md): Re: heterogenous variance remlf90/aireml by agngenetics Nov 5, 2014
+[399](0399.md): Re: heterogenous variance remlf90/aireml by Shogo Tsuruta Nov 5, 2014
+[398](0398.md): heterogenous variance remlf90/aireml by agngenetics Nov 4, 2014
+[397](0397.md): Re: predf90 by Shogo Tsuruta Nov 3, 2014
+[396](0396.md): Re: predf90 by Shogo Tsuruta Nov 3, 2014
+[395](0395.md): Re: Oscillations in Manhattat plots - solved by Ignacio Aguilar Oct 28, 2014
+[394](0394.md): Re: predf90 by sebastianmucha8 Oct 28, 2014
+[393](0393.md): [blupf90] predf90 error by sebastianmucha8 Oct 28, 2014
+[392](0392.md): Re: [blupf90] predf90 by sebastianmucha8 Oct 28, 2014
+[391](0391.md): Re: [blupf90] predf90 by Daniela Lourenco Oct 27, 2014
+[390](0390.md): predf90 by sebastianmucha8 Oct 27, 2014
+[389](0389.md): DGV in postGSF90 for prediction of SNP effects by Ignacy Misztal Oct 27, 2014
+[388](0388.md): Re: Inverse of the Average Information Matrix by jukebop Sep 24, 2014
+[387](0387.md): Re: [blupf90] Re: Inverse of the Average Information Matrix by Ignacy Misztal Sep 24, 2014
+[386](0386.md): Re: [blupf90] Inverse of the Average Information Matrix by Ignacy Misztal Sep 24, 2014
+[385](0385.md): Re: [blupf90] Re: Inverse of the Average Information Matrix by John Cole Sep 24, 2014
+[384](0384.md): Re: Inverse of the Average Information Matrix by Shogo Tsuruta Sep 24, 2014
+[383](0383.md): Inverse of the Average Information Matrix by Juliana Petrini Sep 23, 2014
+[382](0382.md): Re: Cross validation for univariate threshold model by almarhoon76 Sep 18, 2014
+[381](0381.md): Re: Cross validation for univariate threshold model by almarhoon76 Sep 18, 2014
+[380](0380.md): Re: Cross validation for univariate threshold model by Shogo Tsuruta Sep 18, 2014
+[379](0379.md): Re: [blupf90] Cross validation for univariate threshold model by Ignacy Misztal Sep 18, 2014
+[378](0378.md): Cross validation for univariate threshold model by almarhoon76 Sep 17, 2014
+[377](0377.md): Re: [blupf90] estimating cross breeding effects: heterosis and epistasis by thomas muasya Sep 17, 2014
+[376](0376.md): Re: [blupf90] estimating cross breeding effects: heterosis and epistasis by Ignacy Misztal Sep 15, 2014
+[375](0375.md): estimating cross breeding effects: heterosis and epistasis by thomas muasya Sep 15, 2014
+[374](0374.md): RE: [blupf90] MT weights by Sanchez, Juan Pablo Aug 31, 2014
+[373](0373.md): RE: [blupf90] MT weights by Ignacy Misztal Aug 30, 2014
+[372](0372.md): MT weights by Sanchez, Juan Pablo Aug 28, 2014
+[371](0371.md): Re: [blupf90] Re: advice for the first time in Blupf90 by khaleel jawasreh Aug 24, 2014
+[370](0370.md): Re: advice for the first time in Blupf90 by Shogo Tsuruta Aug 23, 2014
+[369](0369.md): advice for the first time in Blupf90 by khaleel jawasreh Aug 22, 2014
+[368](0368.md): Re: Restart gibbs2f90 by grulock Aug 21, 2014
+[367](0367.md): Re: Restart gibbs2f90 by Shogo Tsuruta Aug 20, 2014
+[366](0366.md): Restart gibbs2f90 by grulock Aug 20, 2014
+[364](0364.md): Re: [blupf90] Citation by rocha_vet Aug 19, 2014
+[363](0363.md): Re: [blupf90] Citation by Ignacy Misztal Aug 19, 2014
+[362](0362.md): Citation by rocha_vet Aug 19, 2014
+[361](0361.md): Re: Downloading application programs. by Austin Putz Aug 19, 2014
+[360](0360.md): Re: Downloading application programs. by Shogo Tsuruta Aug 18, 2014
+[359](0359.md): Downloading application programs. by putz.austin Aug 18, 2014
+[358](0358.md): Bivariate Analysis of Binary trait by ojalim@ymail.com Aug 9, 2014
+[357](0357.md): Random regression by ojalim@ymail.com Aug 9, 2014
+[356](0356.md): RE: [blupf90] remlf90 - OPTION constant_var by Sanchez, Juan Pablo Jul 28, 2014
+[355](0355.md): Re: [blupf90] remlf90 - OPTION constant_var by Andres Legarra Jul 28, 2014
+[354](0354.md): remlf90 - OPTION constant_var by Sanchez, Juan Pablo Jul 24, 2014
+[353](0353.md): Re: [blupf90] multivariate with weightings by Ignacy Misztal Jul 10, 2014
+[352](0352.md): Re: multivariate with weightings by Shogo Tsuruta Jul 10, 2014
+[351](0351.md): multivariate with weightings by Alex Brown Jul 10, 2014
+[350](0350.md): Re: [blupf90] Re: reliabilities by daniel yoseph Jul 2, 2014
+[349](0349.md): Re: reliabilities by Shogo Tsuruta Jul 2, 2014
+[348](0348.md): Re: [blupf90] Re: reliabilities by Andres Legarra Jul 2, 2014
+[347](0347.md): Re: reliabilities by fmulabet Jul 2, 2014
+[346](0346.md): Re: RRM & Wood function by Shogo Tsuruta Jun 17, 2014
+[345](0345.md): Re: How to use a nohup comand or a bat file to run gibbs2f90 by Daniela Lourenco Jun 17, 2014
+[344](0344.md): How to use a nohup comand or a bat file to run gibbs2f90 by grulock Jun 17, 2014
+[343](0343.md): RRM & Wood function by azevedo.jairo Jun 9, 2014
+[341](0341.md): RE: [blupf90] Re: Common environmental effect by Shogo Tsuruta May 24, 2014
+[340](0340.md): RE: [blupf90] Re: Common environmental effect by (no author) May 24, 2014
+[339](0339.md): Re: Common environmental effect by zana2089 May 24, 2014
+[338](0338.md): Re: Common environmental effect by ignacyblupf90 May 23, 2014
+[337](0337.md): Common environmental effect by zana2089 May 20, 2014
+[336](0336.md): Re: Degree of belief by almarhoon76 May 7, 2014
+[335](0335.md): Re: Degree of belief by Shogo Tsuruta May 7, 2014
+[334](0334.md): Re: Degree of belief by almarhoon76 May 6, 2014
+[333](0333.md): Re: Degree of belief by Shogo Tsuruta May 6, 2014
+[332](0332.md): Re: Degree of belief by almarhoon76 May 6, 2014
+[331](0331.md): Re: Degree of belief by Shogo Tsuruta May 6, 2014
+[330](0330.md): Degree of belief by almarhoon76 May 6, 2014
+[329](0329.md): Re: [blupf90] gibbs2f90: How to estimate breeding values! by Daniela Lourenco May 5, 2014
+[328](0328.md): gibbs2f90: How to estimate breeding values! by grulock May 5, 2014
+[327](0327.md): Re: [blupf90] Calling Gibbs3f90 by terminal of Linux (Ubuntu 13.10) by Andres Legarra Apr 30 6:39 AM
+[326](0326.md): Re: [blupf90] Calling Gibbs3f90 by terminal of Linux (Ubuntu 13.10) by zana2089 Apr 30 6:15 AM
+[325](0325.md): Re: [blupf90] Calling Gibbs3f90 by terminal of Linux (Ubuntu 13.10) by Andres Legarra Apr 30 4:54 AM
+[324](0324.md): Calling Gibbs3f90 by terminal of Linux (Ubuntu 13.10) by zana2089 Apr 30 4:43 AM
+[323](0323.md): Changes to BLUPF90 software by ignacyblupf90 Apr 25 11:25 AM
+[322](0322.md): Re: [blupf90] Re: variance components equal to zero by Henrique Torres Ventura Apr 15 3:37 AM
+[321](0321.md): Re: [blupf90] SAME BREEDING VALUES WITH AND WITHOUT GENOMIC INFORMATION by Adriana García Ruiz Apr 14 6:02 PM
+[320](0320.md): Re: variance components equal to zero by Shogo Tsuruta Apr 14 2:17 PM
+[319](0319.md): variance components equal to zero by henriquetorresventura Apr 14 2:09 PM
+[318](0318.md): SAME BREEDING VALUES WITH AND WITHOUT GENOMIC INFORMATION by gr_adri Apr 14 1:23 PM
+[317](0317.md): Re: [blupf90] SAME BREEDING VALUES WITH AND WITHOUT GENOMIC INFORMATION by Breno Fragomeni Apr 14 1:22 PM
+[316](0316.md): SAME BREEDING VALUES WITH AND WITHOUT GENOMIC INFORMATION by gr_adri Apr 14 1:21 PM
+[315](0315.md): SAME BREEDING VALUES WITH AND WITHOUT GENOMIC INFORMATION by gr_adri Apr 14 1:04 PM
+[314](0314.md): Re: BLUP90ADJ by henriquetorresventura Apr 9 12:16 PM
+[313](0313.md): Re: BLUP90ADJ by Shogo Tsuruta Apr 9 12:11 PM
+[312](0312.md): BLUP90ADJ by henriquetorresventura Apr 9 11:04 AM
+[311](0311.md): Re: CG as random effect by Shogo Tsuruta Apr 8 2:07 PM
+[310](0310.md): Re: CG as random effect by almarhoon76 Apr 8 1:54 PM
+[309](0309.md): Re: CG as random effect by Shogo Tsuruta Apr 8 10:38 AM
+[308](0308.md): Re: CG as random effect by almarhoon76 Apr 8 10:14 AM
+[307](0307.md): sum-to-zero contraints for intrinsic models by Facundo MuÃ±oz Apr 8 2:15 AM
+[306](0306.md): Re: [blupf90] Overall intercept by Facundo MuÃ±oz Apr 8 2:07 AM
+[305](0305.md): Re: [blupf90] CG as random effect by Ignacio Aguilar Apr 7 6:44 AM
+[304](0304.md): Re: [blupf90] CG as random effect by Ignacio Aguilar Apr 7 6:41 AM
+[303](0303.md): Re: [blupf90] CG as random effect by Fernando F. Cardoso Apr 7 3:49 AM
+[302](0302.md): CG as random effect by almarhoon76 Apr 6 12:23 PM
+[300](0300.md): Re: [blupf90] Overall intercept [1 Attachment] by Andres Legarra Apr 2 8:59 AM
+[299](0299.md): Overall intercept by Facundo MuÃ±oz Apr 2 8:47 AM
+[298](0298.md): Re: [blupf90] Importing user defined covariances of random effects by Andres Legarra Mar 28, 2014
+[297](0297.md): Re: Multi trait animal model by Shogo Tsuruta Mar 24, 2014
+[296](0296.md): Importing user defined covariances of random effects by Muir, William M. Mar 24, 2014
+[295](0295.md): Multi trait animal model by johanpotgieter66 Mar 23, 2014
+[293](0293.md): Re: postgibbsf90: Try again!!! check burn-in > the first sample by Shogo Tsuruta Mar 18, 2014
+[292](0292.md): Re: Genetic correlations by almarhoon76 Mar 18, 2014
+[291](0291.md): Re: Genetic correlations by Shogo Tsuruta Mar 18, 2014
+[290](0290.md): Re: Genetic correlations by almarhoon76 Mar 18, 2014
+[289](0289.md): postgibbsf90: Try again!!! check burn-in > the first sample by grulock Mar 18, 2014
+[288](0288.md): Re: [blupf90] error in postgibbsf90 - forrtl: severe (71): integer divide by zero by Ignacio Aguilar Mar 18, 2014
+[287](0287.md): Re: Error in postgibbsf90! by grulock Mar 18, 2014
+[286](0286.md): Re: Error in postgibbsf90! by grulock Mar 17, 2014
+[285](0285.md): Re: Genetic correlations by Shogo Tsuruta Mar 17, 2014
+[284](0284.md): Re: [blupf90] Error in postgibbsf90! by Shogo Tsuruta Mar 17, 2014
+[283](0283.md): Genetic Correlation by almarhoon76 Mar 17, 2014
+[282](0282.md): Genetic correlations by almarhoon76 Mar 17, 2014
+[281](0281.md): error in postgibbsf90 - forrtl: severe (71): integer divide by zero by grulock Mar 17, 2014
+[280](0280.md): Error in postgibbsf90! by grulock Mar 17, 2014
+[279](0279.md): Re: Contemporary Groups as Random Effect! by grulock Mar 17, 2014
+[278](0278.md): Re: [blupf90] Contemporary Groups as Random Effect! by Ignacio Aguilar Mar 17, 2014
+[277](0277.md): Contemporary Groups as Random Effect! by grulock Mar 17, 2014
+[276](0276.md): Re: [blupf90] automatic looping through traits by Andres Legarra Mar 14, 2014
+[275](0275.md): RE: [blupf90] automatic looping through traits by Ignacy Misztal Mar 13, 2014
+[274](0274.md): Re: [blupf90] automatic looping through traits by Andres Legarra Mar 13, 2014
+[273](0273.md): Re: [blupf90] missing values in traits by Ignacio Aguilar Mar 13, 2014
+[272](0272.md): Re: [blupf90] automatic looping through traits by Ignacio Aguilar Mar 13, 2014
+[271](0271.md): automatic looping through traits by Muir, William M. Mar 13, 2014
+[270](0270.md): Re: [blupf90] missing values in traits by Facundo Muñoz Mar 13, 2014
+[269](0269.md): Re: [blupf90] missing values in traits by Shogo Tsuruta Mar 13, 2014
+[268](0268.md): Re: [blupf90] missing values in traits [1 Attachment] by Shogo Tsuruta Mar 13, 2014
+[267](0267.md): Re: [blupf90] missing values in traits [1 Attachment] by Andres Legarra Mar 13, 2014
+[266](0266.md): missing values in traits by Facundo Muñoz Mar 13, 2014
+[265](0265.md): Re: [blupf90] gibbs3f90 multiple trait random regression [1 Attachment] by Ignacy Misztal Mar 12, 2014
+[264](0264.md): Re: posterior standard deviation by almarhoon76 Mar 11, 2014
+[263](0263.md): gibbs3f90 multiple trait random regression by Jeremy Howard Mar 11, 2014
+[262](0262.md): Re: posterior standard deviation by Shogo Tsuruta Mar 11, 2014
+[261](0261.md): posterior standard deviation by almarhoon76 Mar 11, 2014
+[260](0260.md): Re: [blupf90] genomic selection by Andres Legarra Mar 3, 2014
+[259](0259.md): genomic selection by marzieh heidaritabar Mar 3, 2014
+[258](0258.md): Re: [blupf90] real values in input file of preGSf90 by Andres Legarra Feb 25, 2014
+[257](0257.md): real values in input file of preGSf90 by yhuang0208 Feb 24, 2014
+[256](0256.md): RE: GIBBS1F90-GIBBS3F90 by William_M_Muir Feb 11, 2014
+[255](0255.md): Re: [blupf90] GIBBS1F90-GIBBS3F90 by Ignacio Aguilar Feb 10, 2014
+[254](0254.md): Re: [blupf90] RE: GIBBS1F90-GIBBS3F90 by Breno Fragomeni Feb 10, 2014
+[253](0253.md): RE: GIBBS1F90-GIBBS3F90 by William_M_Muir Feb 10, 2014
+[252](0252.md): Re: GIBBS1F90-GIBBS3F90 by Shogo Tsuruta Feb 10, 2014
+[251](0251.md): Re: [blupf90] GIBBS1F90-GIBBS3F90 by Breno Fragomeni Feb 10, 2014
+[250](0250.md): GIBBS1F90-GIBBS3F90 by William_M_Muir Feb 10, 2014
+[249](0249.md): Re: help by Shogo Tsuruta Feb 4, 2014
+[248](0248.md): Re: help by Shogo Tsuruta Feb 4, 2014
+[247](0247.md): help by Maryam Safdari Feb 4, 2014
+[246](0246.md): Oscillations in Manhattat plots - solved by ignacyblupf90 Jan 23, 2014
+[245](0245.md): Re: [blupf90] RE: reliabilities by Sophie Allais Jan 23, 2014
+[244](0244.md): Re: [blupf90] RE: reliabilities by dani2br Jan 22, 2014
+[243](0243.md): Re: [blupf90] RE: reliabilities by Sophie Allais Jan 22, 2014
+[242](0242.md): RE: reliabilities by dani2br Jan 22, 2014
+[241](0241.md): reliabilities by sophie.allais Jan 22, 2014
+[240](0240.md): Re: [blupf90] question about Gen_conflicts_all by joy king Jan 22, 2014
+[239](0239.md): Re: [blupf90] question about Gen_conflicts_all by marzieh heidaritabar Jan 22, 2014
+[238](0238.md): Re: [blupf90] question about Gen_conflicts_all by Andres Legarra Jan 22, 2014
+[237](0237.md): Re: [blupf90] question about Gen_conflicts_all by marzieh heidaritabar Jan 22, 2014
+[236](0236.md): Re: [blupf90] question about Gen_conflicts_all by Andres Legarra Jan 22, 2014
+[235](0235.md): Re: [blupf90] question about Gen_conflicts_all by marzieh heidaritabar Jan 21, 2014
+[234](0234.md): Re: [blupf90] question about Gen_conflicts_all by joy king Jan 21, 2014
+[233](0233.md): question about Gen_conflicts_all by marzieh heidaritabar Jan 21, 2014
+[232](0232.md): RE: ACCF90 by sophie.allais Jan 20, 2014
+[231](0231.md): RE: Variance Components estimation by almarhoon76 Jan 11, 2014
+[230](0230.md): Re: Variance Components estimation by Shogo Tsuruta Jan 11, 2014
+[229](0229.md): Variance Components estimation by almarhoon76 Jan 10, 2014
+[228](0228.md): Re: [blupf90] Using renumF90 for sire model by almarhoon76 Jan 10, 2014
+[227](0227.md): Re: [blupf90] Re: S.E. in airemlf90 by Facundo MuÃ±oz Jan 10, 2014
+[226](0226.md): Re: S.E. in airemlf90 by Shogo Tsuruta Jan 9, 2014
+[225](0225.md): Re: [blupf90] ACCF90 by ger_son_jr Jan 9, 2014
+[224](0224.md): S.E. in airemlf90 by Facundo MuÃ±oz Jan 9, 2014
+[223](0223.md): Re: [blupf90] ACCF90 by Daniela Lino Jan 8, 2014
+[222](0222.md): ACCF90 by ger_son_jr Jan 8, 2014
+[221](0221.md): Re: [blupf90] Using renumF90 for sire model by Andres Legarra Dec 23, 2013
+[220](0220.md): Using renumF90 for sire model by almarhoon76 Dec 20, 2013
+[219](0219.md): Re: [blupf90] Multiple trait with random regression by Ignacio Aguilar Dec 18, 2013
+[218](0218.md): Re: [blupf90] Multiple trait with random regression by Tiago Passafaro Dec 17, 2013
+[217](0217.md): Re: [blupf90] Multiple trait with random regression by Shogo Tsuruta Dec 17, 2013
+[216](0216.md): Multiple trait with random regression by tiagopassafaro Dec 17, 2013
+[215](0215.md): RE: Re: [blupf90] version of blupf90 for extra large data sets by henriquetorresventura Nov 18, 2013
+[214](0214.md): Re: [blupf90] version of blupf90 for extra large data sets by Ignacy Misztal Nov 15, 2013
+[213](0213.md): version of blupf90 for extra large data sets by henriquetorresventura Nov 15, 2013
+[212](0212.md): RE: Re: [blupf90] airemlf90 error by henriquetorresventura Nov 14, 2013
+[211](0211.md): Re: [blupf90] airemlf90 error by Ignacio Aguilar Nov 14, 2013
+[210](0210.md): RE: Re: [blupf90] airemlf90 error by henriquetorresventura Nov 14, 2013
+[209](0209.md): Re: [blupf90] airemlf90 error by Ignacio Aguilar Nov 14, 2013
+[208](0208.md): RE: Re: [blupf90] airemlf90 error by henriquetorresventura Nov 14, 2013
+[207](0207.md): Re: [blupf90] airemlf90 error by Ignacio Aguilar Nov 14, 2013
+[206](0206.md): RE: Re: [blupf90] airemlf90 error by henriquetorresventura Nov 14, 2013
+[205](0205.md): Re: [blupf90] airemlf90 error by Andres Legarra Nov 14, 2013
+[204](0204.md): RE: Re: [blupf90] airemlf90 error by henriquetorresventura Nov 14, 2013
+[203](0203.md): Re: [blupf90] airemlf90 error by Ignacy Misztal Nov 14, 2013
+[202](0202.md): airemlf90 error by henriquetorresventura Nov 14, 2013
+[201](0201.md): RE: airemlf90 issue by henriquetorresventura Nov 14, 2013
+[200](0200.md): RE: airemlf90 issue by henriquetorresventura Nov 14, 2013
+[199](0199.md): Re: Re: [blupf90] airemlf90 issue by Fernando F. Cardoso Nov 14, 2013
+[198](0198.md): Re: [blupf90] airemlf90 issue by Ignacio Aguilar Nov 14, 2013
+[197](0197.md): RE: Re: [blupf90] airemlf90 issue by henriquetorresventura Nov 14, 2013
+[196](0196.md): Re: [blupf90] airemlf90 issue by Ignacio Aguilar Nov 14, 2013
+[195](0195.md): airemlf90 issue by henriquetorresventura Nov 14, 2013
+[194](0194.md): RE: renumf90 under linux issue by henriquetorresventura Nov 13, 2013
+[193](0193.md): Re: [blupf90] renumf90 under linux issue by Ignacio Aguilar Nov 13, 2013
+[192](0192.md): RE: Re: [blupf90] renumf90 under linux issue by henriquetorresventura Nov 13, 2013
+[191](0191.md): Re: [blupf90] renumf90 under linux issue by Andres Legarra Nov 13, 2013
+[190](0190.md): RE: Re: [blupf90] renumf90 under linux issue by henriquetorresventura Nov 13, 2013
+[189](0189.md): RE: Re: [blupf90] renumf90 under linux issue by henriquetorresventura Nov 13, 2013
+[188](0188.md): Re: [blupf90] renumf90 under linux issue by Andres Legarra Nov 13, 2013
+[187](0187.md): Re: [blupf90] renumf90 under linux issue by Fernando F. Cardoso Nov 13, 2013
+[186](0186.md): Re: [blupf90] renumf90 under linux issue by Ignacio Aguilar Nov 13, 2013
+[185](0185.md): renumf90 under linux issue by henriquetorresventura Nov 13, 2013
+[184](0184.md): RE: issue in weighting G matrix by francesco_tiezzi Nov 11, 2013
+[183](0183.md): Re: [blupf90] Correction in my datafile by Ignacy Misztal Nov 11, 2013
+[182](0182.md): Correction in my datafile by M'Naouer Djemali Nov 10, 2013
+[181](0181.md): blupf90 and remlf90 by Djemali MNaouer Nov 10, 2013
+[180](0180.md): Re: [blupf90] issue in weighting G matrix [1 Attachment] by Andres Legarra Oct 28, 2013
+[179](0179.md): Re: [blupf90] Repeated measures vs. Multitrait by Andres Legarra Oct 25, 2013
+[178](0178.md): Repeated measures vs. Multitrait by Fernando F. Cardoso Oct 25, 2013
+[177](0177.md): issue in weighting G matrix by francesco_tiezzi Oct 22, 2013
+[176](0176.md): Re: [blupf90] question about GWAS by bupf90 by Andres Legarra Oct 7, 2013
+[175](0175.md): question about GWAS by bupf90 by marzieh heidaritabar Oct 7, 2013
+[174](0174.md): Re: [blupf90] issue with THRGIBBS1F90 [1 Attachment] by Andres Legarra Oct 2, 2013
+[173](0173.md): issue with THRGIBBS1F90 by napo_vrock Sep 30, 2013
+[172](0172.md): Maternal and maternal permanent enviroment by junqueirabreeding Sep 15, 2013
+[171](0171.md): Re: [blupf90] Multiple trait models using Thrgibbs1f90 by Tiago Passafaro Aug 29, 2013
+[170](0170.md): Re: [blupf90] Multiple trait models using Thrgibbs1f90 by Ignacio Aguilar Aug 29, 2013
+[169](0169.md): Re: [blupf90] Multiple trait models using Thrgibbs1f90 by Tiago Passafaro Aug 28, 2013
+[168](0168.md): Re: [blupf90] Multiple trait models using Thrgibbs1f90 by Ignacio Aguilar Aug 25, 2013
+[167](0167.md): Multiple trait models using Thrgibbs1f90 by Tiago Passafaro Aug 25, 2013
+[166](0166.md): Re: [blupf90] Re: testing for heterogeneous variances by Andres Legarra Aug 18, 2013
+[165](0165.md): Re: [blupf90] Re: testing for heterogeneous variances by thomas muasya Aug 17, 2013
+[164](0164.md): Re: [blupf90] Re: testing for heterogeneous variances by Andres Legarra Aug 16, 2013
+[163](0163.md): Re: [blupf90] Re: testing for heterogeneous variances by thomas muasya Aug 16, 2013
+[162](0162.md): Re: [blupf90] Re: testing for heterogeneous variances by Andres Legarra Aug 16, 2013
+[161](0161.md): Re: testing for heterogeneous variances by muasyakt Aug 14, 2013
+[160](0160.md): Re: [blupf90] testing for heterogeneous variances by thomas muasya Aug 10, 2013
+[159](0159.md): Re: [blupf90] testing for heterogeneous variances by Andres Legarra Aug 7, 2013
+[158](0158.md): testing for heterogeneous variances by thomas muasya Aug 7, 2013
+[157](0157.md): bashir by Bashir Ghahri Aug 2, 2013
+[156](0156.md): Re: herd-year-season by Shogo Tsuruta Aug 2, 2013
+[155](0155.md): herd-year-season by Bashir Ghahri Aug 2, 2013
+[154](0154.md): Re: random regression model by Shogo Tsuruta Aug 1, 2013
+[153](0153.md): random regression model by Bashir Ghahri Aug 1, 2013
+[152](0152.md): Re: remlf90 by Shogo Tsuruta Jul 30, 2013
+[151](0151.md): remlf90 by Bashir Ghahri Jul 30, 2013
+[150](0150.md): Re: [blupf90] (unknown) by Ignacy Misztal Jul 9, 2013
+[149](0149.md):  by marzieh heidaritabar Jul 9, 2013
+[148](0148.md):  by marzieh heidaritabar Jul 8, 2013
+[147](0147.md): Re: renumf90 source code by juliehamon Jul 1, 2013
+[146](0146.md): RE: [blupf90] renumf90 source code by Ignacy Misztal Jun 29, 2013
+[145](0145.md): renumf90 source code by juliehamon Jun 29, 2013
+[144](0144.md): Re: [blupf90] Re: FACTOR BAYES by Andres Legarra Jun 20, 2013
+[142](0142.md): FACTOR BAYES by she_uem Jun 19, 2013
+[141](0141.md): Re: [J-] [blupf90] accuracy by Andres Legarra Jun 19, 2013
+[140](0140.md): accuracy by marzieh heidaritabar Jun 19, 2013
+[139](0139.md): Help by she_uem Jun 18, 2013
+[138](0138.md): Re: Nested effects for factors by kayla_psaros Jun 6, 2013
+[137](0137.md): Re: [blupf90] Nested effects for factors by Ignacio Aguilar Jun 5, 2013
+[136](0136.md): Nested effects for factors by kayla_psaros Jun 5, 2013
+[135](0135.md): Re: [blupf90] Relationship matrix by Andres Legarra May 7, 2013
+[134](0134.md): Re: [blupf90] Relationship matrix by Ignacy Misztal May 6, 2013
+[133](0133.md): Relationship matrix by lais_c_brito May 6, 2013
+[132](0132.md): Re: [blupf90] variance explained by markers by Ignacio Aguilar Apr 24 7:45 AM
+[131](0131.md): variance explained by markers by marzieh Apr 23 10:23 AM
+[130](0130.md): Re: [blupf90] Fwd: Ask [10 Attachments] by Andres Legarra Apr 10 5:23 AM
+[129](0129.md): Fwd: Ask by amir amiri Apr 10 2:25 AM
+[128](0128.md): Re: [blupf90] Multiple trait with Gibbs1f90 by Ignacy Misztal Apr 1 11:32 AM
+[127](0127.md): Multiple trait with Gibbs1f90 by amirali_day Mar 29, 2013
+[126](0126.md): Re: Multiple trait repeatability model by napo_vrock Mar 18, 2013
+[125](0125.md): Re: [blupf90] GWAS using single step method in BLUPF90 by duy do ngoc duy Mar 18, 2013
+[124](0124.md): Re: [blupf90] GWAS using single step method in BLUPF90 [3 Attachments] by Andres Legarra Mar 18, 2013
+[123](0123.md): Re: [blupf90] GWAS using single step method in BLUPF90 by duy do ngoc duy Mar 18, 2013
+[122](0122.md): Re: [blupf90] Multiple trait repeatability model by Andres Legarra Mar 18, 2013
+[121](0121.md): Multiple trait repeatability model by napo_vrock Mar 17, 2013
+[120](0120.md): Re: [blupf90] GWAS using single step method in BLUPF90 by Andres Legarra Mar 15, 2013
+[119](0119.md): Re: [blupf90] GWAS using single step method in BLUPF90 by duy do ngoc duy Mar 15, 2013
+[118](0118.md): Re: [blupf90] GWAS using single step method in BLUPF90 by Andres Legarra Mar 11, 2013
+[117](0117.md): Re: [blupf90] Re: BLUP_SNP without pedigree file by Andres Legarra Mar 8, 2013
+[116](0116.md): Re: BLUP_SNP without pedigree file by arnedec Mar 8, 2013
+[115](0115.md): GWAS using single step method in BLUPF90 by duy Mar 6, 2013
+[114](0114.md): Re: [blupf90] BLUP_SNP without pedigree file by Andres Legarra Mar 6, 2013
+[113](0113.md): BLUP_SNP without pedigree file by arnedec Mar 6, 2013
+[112](0112.md): Re: [blupf90] Re: Problem with airemlf90 and blupf90 by Ignacio Aguilar Mar 4, 2013
+[111](0111.md): Re: Problem with airemlf90 and blupf90 by napo_vrock Mar 3, 2013
+[110](0110.md): Re: [blupf90] Problem with airemlf90 and blupf90 by Marek Lukaszewicz Mar 3, 2013
+[109](0109.md): Problem with airemlf90 and blupf90 by napo_vrock Mar 3, 2013
+[108](0108.md): Re: [blupf90] Renumf90 by Tiago Passafaro Jan 26, 2013
+[107](0107.md): Re: [blupf90] Renumf90 by Ignacio Aguilar Jan 25, 2013
+[106](0106.md): Re: [blupf90] Re: Renumf90 by Marek Lukaszewicz Jan 24, 2013
+[105](0105.md): Re: Renumf90 by Shogo Tsuruta Jan 24, 2013
+[104](0104.md): Re: [blupf90] Renumf90 by Ignacy Misztal Jan 24, 2013
+[103](0103.md): Renumf90 by tiagopassafaro Jan 23, 2013
+[102](0102.md): remlf90 by raboy2011 Dec 21, 2012
+[101](0101.md): Re: Question about renumf90 by Mohamed Dec 17, 2012
+[100](0100.md): Re: [blupf90] Re: Question about renumf90 by Marek Lukaszewicz Dec 13, 2012
+[99](0099.md): Re: Question about renumf90 by Mohamed Dec 10, 2012
+[98](0098.md): Re: [blupf90] Re: Question about renumf90 by Marek Lukaszewicz Dec 9, 2012
+[97](0097.md): Re: Question about renumf90 by Mohamed Dec 7, 2012
+[96](0096.md): Re: [blupf90] Re: Question about renumf90 by Andres Legarra Dec 7, 2012
+[95](0095.md): Re: Question about renumf90 by Mohamed Dec 7, 2012
+[94](0094.md): Re: [blupf90] Re: Question about renumf90 by Andres Legarra Dec 6, 2012
+[93](0093.md): Re: Question about renumf90 by Mohamed Dec 6, 2012
+[92](0092.md): Re: [blupf90] Re: Question about renumf90 by Marek Lukaszewicz Dec 6, 2012
+[91](0091.md): Re: Question about renumf90 by Mohamed Dec 5, 2012
+[90](0090.md): Re: [blupf90] Question about renumf90 by Andres Legarra Dec 5, 2012
+[89](0089.md): Question about renumf90 by Mohamed Dec 5, 2012
+[88](0088.md): Re: DAIRYPAK-sire model by thomas muasya Nov 22, 2012
+[87](0087.md): Re: Getting estimates from remlf90? by Mohamed Nov 21, 2012
+[86](0086.md): Re: [blupf90] Getting estimates from remlf90? by Andres Legarra Nov 21, 2012
+[85](0085.md): Getting estimates from remlf90? by Mohamed Nov 21, 2012
+[84](0084.md): Re: Please help for setting the inverse of parental dominance relationship matrix by chyonghuoy Nov 16, 2012
+[83](0083.md): Re: [blupf90] Please help for setting the inverse of parental dominance relationship matrix by Ignacio Aguilar Nov 16, 2012
+[82](0082.md): Re: [blupf90] Re: Please help for setting the inverse of parental dominance relationship matrix by Shogo Tsuruta Nov 15, 2012
+[81](0081.md): Re: Please help for setting the inverse of parental dominance relationship matrix by chyonghuoy Nov 15, 2012
+[80](0080.md): Re: [blupf90] Please help for setting the inverse of parental dominance relationship matrix by Andres Legarra Nov 15, 2012
+[79](0079.md): Re: [blupf90] Please help for setting the inverse of parental dominance relationship matrix by Ignacy Misztal Nov 15, 2012
+[78](0078.md): Re: [blupf90] Re: inbupgf90 by Ignacio Aguilar Nov 15, 2012
+[77](0077.md): Re: [blupf90] Re: inbupgf90 by Andres Legarra Nov 15, 2012
+[76](0076.md): Please help for setting the inverse of parental dominance relationship matrix by chyonghuoy Nov 14, 2012
+[75](0075.md): Re: inbupgf90 by Mohamed Nov 14, 2012
+[74](0074.md): Re: [blupf90] Re: inbupgf90 by Andres Legarra Nov 14, 2012
+[73](0073.md): Re: inbupgf90 by Mohamed Nov 13, 2012
+[72](0072.md): Re: inbupgf90 by Mohamed Nov 9, 2012
+[71](0071.md): Re: [blupf90] inbupgf90 by Ignacio Aguilar Nov 9, 2012
+[70](0070.md): Re: inbupgf90 by Mohamed Nov 8, 2012
+[69](0069.md): Re: inbupgf90 by Mohamed Nov 8, 2012
+[68](0068.md): Re: inbupgf90 by Mohamed Nov 8, 2012
+[67](0067.md): Re: inbupgf90 by Mohamed Nov 8, 2012
+[66](0066.md): Re: [blupf90] Re: inbupgf90 by Ignacio Aguilar Nov 8, 2012
+[65](0065.md): Re: inbupgf90 by Mohamed Nov 8, 2012
+[64](0064.md): Re: [blupf90] Re: inbupgf90 by Ignacio Aguilar Nov 8, 2012
+[63](0063.md): Re: inbupgf90 by Mohamed Nov 8, 2012
+[62](0062.md): Re: [blupf90] Re: inbupgf90 by Ignacio Aguilar Nov 8, 2012
+[61](0061.md): Re: inbupgf90 by Mohamed Nov 8, 2012
+[60](0060.md): Re: [blupf90] Re: inbupgf90 by Ignacio Aguilar Nov 7, 2012
+[59](0059.md): Re: [blupf90] Re: inbupgf90 by Andres Legarra Nov 7, 2012
+[58](0058.md): Re: inbupgf90 by Mohamed Nov 7, 2012
+[57](0057.md): Re: [blupf90] 1 bit integer by Andres Legarra Nov 7, 2012
+[56](0056.md): 1 bit integer by juanpablosanchezserrano Nov 7, 2012
+[55](0055.md): Re: [blupf90] inbupgf90 by Ignacio Aguilar Nov 5, 2012
+[54](0054.md): Re: inbupgf90 by Mohamed Nov 4, 2012
+[53](0053.md): Re: [blupf90] inbupgf90 by Ignacio Aguilar Nov 4, 2012
+[52](0052.md): Re: inbupgf90 by Mohamed Nov 4, 2012
+[51](0051.md): Re: inbupgf90 by Mohamed Nov 3, 2012
+[50](0050.md): Re: [blupf90] inbupgf90 by Ignacio Aguilar Nov 2, 2012
+[49](0049.md): inbupgf90 by Mohamed Nov 2, 2012
+[48](0048.md): Re: Problems with renumf90 in Mac oX by noeibes Oct 22, 2012
+[47](0047.md): Re: [blupf90] Re: Problems with renumf90 in Mac oX by Ignacio Aguilar Oct 22, 2012
+[46](0046.md): Re: [blupf90] Re: Problems with renumf90 in Mac oX by Andres Legarra Oct 22, 2012
+[45](0045.md): Re: [blupf90] Re: Problems with renumf90 in Mac oX by Ignacy Misztal Oct 22, 2012
+[44](0044.md): Re: Problems with renumf90 in Mac oX by noeibes Oct 19, 2012
+[43](0043.md): Re: [blupf90] Problems with renumf90 in Mac oX by Ignacio Aguilar Oct 18, 2012
+[42](0042.md): Re: [blupf90] Re: Problems with renumf90 in Mac oX by Andres Legarra Oct 18, 2012
+[41](0041.md): Re: Problems with renumf90 in Mac oX by noeibes Oct 18, 2012
+[40](0040.md): Re: [blupf90] Problems with renumf90 in Mac oX by Andres Legarra Oct 18, 2012
+[39](0039.md): Problems with renumf90 in Mac oX by noeibes Oct 18, 2012
+[38](0038.md): Re: [blupf90] multiple trait sire model by thomas muasya Oct 17, 2012
+[37](0037.md): Re: [blupf90] multiple trait sire model by Andres Legarra Oct 17, 2012
+[36](0036.md): multiple trait sire model by thomas Oct 17, 2012
+[35](0035.md): How to continue from previous iteration? by sjengske@ymail.com Feb 17, 2012
+[34](0034.md): fortran arguments by Andres Legarra Feb 12, 2012
+[33](0033.md): Fedora14[32bit] by Mahmood Honarvar Jan 24, 2012
+[32](0032.md): Re: [blupf90] relationship between #CAT and prior of Residual Variance by Andres Legarra Jan 23, 2012
+[31](0031.md): relationship between #CAT and prior of Residual Variance by Mahmood Honarvar Jan 23, 2012
+[30](0030.md): Re: [blupf90] Re: Genomic Gibbs1f90 by Raphael Wenceslau Jan 13, 2012
+[29](0029.md): Re: [blupf90] Re: Genomic Gibbs1f90 by Raphael Wenceslau Jan 11, 2012
+[28](0028.md): Re: [blupf90] Re: Genomic Gibbs1f90 by Andres Legarra Jan 10, 2012
+[27](0027.md): Re: [blupf90] Re: Genomic Gibbs1f90 by Andres Legarra Jan 10, 2012
+[26](0026.md): Re: [blupf90] Genomic Gibbs1f90 by Raphael Wenceslau Jan 10, 2012
+[25](0025.md): Re: [blupf90] Re: Genomic Gibbs1f90 by Raphael Wenceslau Jan 10, 2012
+[24](0024.md): Re: [blupf90] Genomic Gibbs1f90 by Ignacio Aguilar Jan 10, 2012
+[23](0023.md): Re: [blupf90] Re: Genomic Gibbs1f90 by Raphael Wenceslau Jan 10, 2012
+[22](0022.md): Re: [blupf90] Re: Genomic Gibbs1f90 by Andres Legarra Jan 10, 2012
+[21](0021.md): Re: [blupf90] Re: Genomic Gibbs1f90 by Raphael Wenceslau Jan 10, 2012
+[20](0020.md): Re: [blupf90] renumf90 by Ignacio Aguilar Jan 10, 2012
+[19](0019.md): Re: [blupf90] renumf90 by Andres Legarra Jan 10, 2012
+[18](0018.md): renumf90 by Mahmood Honarvar Jan 10, 2012
+[17](0017.md): Re: [blupf90] Re: THRGIBBS1F90b [OPTION] by Mahmood Honarvar Jan 7, 2012
+[16](0016.md): Re: THRGIBBS1F90b [OPTION] by Ignacio Aguilar Jan 7, 2012
+[15](0015.md): THRGIBBS1F90b [OPTION] by Mahmood Honarvar Jan 7, 2012
+[14](0014.md): Re: [blupf90] multiple trait maternal effects [Data && Exmpls] by Ignacy Misztal Jan 5, 2012
+[13](0013.md): test message by Andres Legarra Jan 5, 2012
+[12](0012.md): multiple trait maternal effects [Data && Exmpls] by ARASH Jan 4, 2012
+[11](0011.md): Re: Estimating heterogeneous variances by ignacyblupf90 Jan 1, 2012
+[10](0010.md): Re: Genomic Gibbs1f90 by ignacyblupf90 Jan 1, 2012
+[9](0009.md): Estimating heterogeneous variances by juliki69 Dec 15, 2011
+[8](0008.md): Genomic Gibbs1f90 by rocha_vet Dec 13, 2011
+[7](0007.md): ASCII file newline terminations by Ignacio Aguilar Sep 24, 2011
+[6](0006.md): Re: Mac binary by Ignacio Aguilar Sep 24, 2011
+[5](0005.md): Mac binary by LT Sep 24, 2011
+[4](0004.md): BLUPF90 with genomic features released by ignacyblupf90 Sep 22, 2011
+[3](0003.md): Programs and Windows by Ignacy Misztal Jan 7, 2008
+[1](0001.md): First message -- high memory requirements with hash matrix by Ignacy Misztal Oct 4, 2007
