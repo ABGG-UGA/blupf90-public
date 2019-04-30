@@ -10,10 +10,20 @@ It is not guaranteed that you timely receive a correct answer or a useful commen
 
 For now, there are two options where you post your question, suggestion, or bug report.
 
+- [BLUPF90 public forum - issues](https://github.com/ABGG-UGA/blupf90-public/issues) : This website. It gives you a modern interface to share your issue. It will be more useful if you have an account on GitHub.
 - [Blupf90 discussion group at Yahoo Group](https://groups.yahoo.com/neo/groups/blupf90/info) : This is a forum/mailing-list we have been using. We will continue to use Yahoo Group for a while.
-- [BLUPF90 public forum - issues](https://github.com/ABGG-UGA/blupf90-public/issues) : This website. It gives you a modern interface to share your issue. It will be more useful if you have an account of GitHub.
 
 All the past messages exchanged in the Yahoo Group are available on this website: see [the archive directory](https://github.com/ABGG-UGA/blupf90-public/tree/master/archive).
+
+## Guideline
+
+When you post an issue, please clarify your problem or question in the subject line. The main body should have the following information to help people understand the issue and give you a possible solution.
+
+- The name of the software in trouble
+- Operating system (Windows, Linux, Mac OS, etc.)
+- What you did, and what you get on screen or in files
+- Parameter file in use and the output message on screen
+- Small examples to reproduce the issue (if possible)
 
 ## Quick links
 
