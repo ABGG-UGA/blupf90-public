@@ -1,10 +1,10 @@
 # BLUPF90 public forum (beta test)
 
-This website is a public area for open discussion about BLUPF90 and related programs.
+This website is a public area for open discussion about a public version of BLUPF90 and related programs.
 
 ## Support 
 
-The support is community-based for a public version of BLUPF90 programs.
+The support is community-based.
 Any people, regardless of whether they belong to the University of Georgia or not, may provide an answer to a question, useful information, and a pointer to a useful website.
 It is not guaranteed that you timely receive a correct answer or a useful comment.
 
