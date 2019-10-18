@@ -1,41 +1,100 @@
 # Tree Index
 
-- [1069](1069.md): maximum number of genotyped animals in preGS by richard.bernstein@hu-berlin.de, Apr 25 6:49 AM
+- [1131](1131.md): converting binary_final solutions to a text file by d.kgari, Sep 26
+    - [1135](1135.md): Re: converting binary_final solutions to a text file by shogotsuruta, Sep 26
+        - [1136](1136.md): Re: converting binary_final solutions to a text file by shogotsuruta, Sep 26
+            - [1137](1137.md): Re: converting binary_final solutions to a text file by shogotsuruta, Sep 26
+    - [1132](1132.md): Re: converting binary_final solutions to a text file by yutakamasuda, Sep 26
+        - [1133](1133.md): Re: converting binary_final solutions to a text file by d.kgari, Sep 26
+            - [1134](1134.md): Re: converting binary_final solutions to a text file by yutakamasuda, Sep 26
+- [1129](1129.md): Priors in GIBBS3F90 by jukebop, Sep 16
+    - [1130](1130.md): Re: Priors in GIBBS3F90 by yutakamasuda, Sep 23
+- [1126](1126.md): Problems generating Plink files by jcrinconf, Sep 10
+    - [1127](1127.md): Re: [blupf90] Problems generating Plink files by Ignacio Aguilar, Sep 13
+- [1124](1124.md): ssGBLUP using metafounders in reml90 by wim.gorssen@..., Sep 9
+    - [1125](1125.md): Re: ssGBLUP using metafounders in reml90 by piperropil, Sep 9
+- [1122](1122.md): Prior in GIBBS1F90 by jukebop, Aug 29
+- [1121](1121.md): problems for setting parameter files in ssGWAS by 1551821635@qq.com, Aug 28
+    - [1128](1128.md): Re: [blupf90] problems for setting parameter files in ssGWAS by Hadi Atashi, Sep 16
+- [1120](1120.md): problems for p-value of ssGWAS by 1551821635@qq.com, Aug 27
+- [1118](1118.md): Re: How to treat litter as a random effect in renumf90 by Shogo Tsuruta, Aug 9
+- [1117](1117.md): How to treat litter as a random effect in renumf90 by shizhi.wang@..., Aug 9
+- [1111](1111.md): warning message using THRSGIBBS1F90 by lucianossbj, Aug 7
+    - [1112](1112.md): Re: warning message using THRSGIBBS1F90 by shogotsuruta, Aug 7
+- [1110](1110.md): Postgibbsf90 by d.kgari, Aug 5
+    - [1113](1113.md): Re: Postgibbsf90 by shogotsuruta, Aug 7
+- [1109](1109.md): Problem running asremlf90 with maternal effects by Huimin Kang, Jul 31
+    - [1115](1115.md): Re: Problem running asremlf90 with maternal effects by shogotsuruta, Aug 7
+        - [1116](1116.md): Re: [blupf90] Re: Problem running asremlf90 with maternal effects by Huimin Kang, Aug 7
+    - [1114](1114.md): Re: Problem running asremlf90 with maternal effects by shogotsuruta, Aug 7
+- [1108](1108.md): Problems with ssGWAS by antpacheco@..., Jul 26
+    - [1119](1119.md): Re: Problems with ssGWAS by prolificow, Aug 16
+- [1106](1106.md): 2019 update error &quot;ID from SNP file not found&quot; by edrodriguez5, Jul 9
+    - [1107](1107.md): Re: [blupf90] 2019 update error &quot;ID from SNP file not found&quot; by Ignacio Aguilar, Jul 13
+- [1105](1105.md): Genetic Groups by kasn2006, Jul 9
+- [1104](1104.md): A website that helps you increase subscribers and viewers on your YouTube channel and Facebook by sinan.dh@..., Jun 21
+- [1102](1102.md): Dear group members, I hope you will join my channel by sinan.dh@..., Jun 17
+    - [1103](1103.md): Fw: Dear group members, I hope you will join my channel by sinan.dh@..., Jun 17
+        - [1123](1123.md): Fw: Dear group members, I hope you will join my channel by sinan.dh@..., Aug 31
+- [1101](1101.md): guidance for (co)variance estimation by hadi_dolati2000, Jun 11
+- [1100](1100.md): F90/VCE differences in EBV by romuald.rouger@..., Jun 7
+- [1095](1095.md): MCMC MH by tpabiou@..., May 29
+    - [1097](1097.md): Re: MCMC MH by yutakamasuda, May 29
+        - [1099](1099.md): Re: MCMC MH by tpabiou@..., May 29
+- [1092](1092.md): Remlf90 stops and does not produce any output or error by wim.gorssen@..., May 24
+    - [1093](1093.md): Re: Remlf90 stops and does not produce any output or error by yutakamasuda, May 28
+        - [1094](1094.md): Re: Remlf90 stops and does not produce any output or error by yutakamasuda, May 28
+            - [1096](1096.md): Re: Remlf90 stops and does not produce any output or error by wim.gorssen@..., May 29
+                - [1098](1098.md): Re: Remlf90 stops and does not produce any output or error by yutakamasuda, May 29
+- [1090](1090.md): New blupf90 forum (experimental) by yutakamasuda, May 13
+- [1086](1086.md): Re: RENDOMN software by yutakamasuda, May 13
+- [1085](1085.md): Variance estimation ettor by ziadichiraz, May 13
+    - [1089](1089.md): Re: Variance estimation ettor by yutakamasuda, May 13
+        - [1091](1091.md): Re: Variance estimation ettor by ziadichiraz, May 14
+- [1079](1079.md): deregressed proofs in blupf90 by wod.lukasz@..., May 6
+    - [1088](1088.md): Re: deregressed proofs in blupf90 by yutakamasuda, May 13
+- [1078](1078.md): Re: maximum number of genotyped animals in preGS by Richard Bernstein, Apr 29
+- [1069](1069.md): maximum number of genotyped animals in preGS by richard.bernstein@..., Apr 25 6:49 AM
+    - [1077](1077.md): Re: maximum number of genotyped animals in preGS by yutakamasuda, Apr 29
 - [1068](1068.md): qcf90 by omiddokht, Apr 19 4:21 AM
     - [1075](1075.md): Re: qcf90 by yutakamasuda, Today at 8:21 AM
 - [1067](1067.md): input conversion error by d.kgari, Apr 16 5:53 AM
     - [1076](1076.md): Re: input conversion error by yutakamasuda, Today at 8:18 AM
-- [1066](1066.md): Reproducing postGSf90 results by nabeel.alnahhas@inra.fr, Apr 15 6:46 AM
+        - [1081](1081.md): Re: input conversion error by d.kgari, May 6
+            - [1082](1082.md): Re: input conversion error by yutakamasuda, May 6
+                - [1083](1083.md): Re: input conversion error by d.kgari, May 9
+                    - [1087](1087.md): Re: input conversion error by yutakamasuda, May 13
+- [1066](1066.md): Reproducing postGSf90 results by nabeel.alnahhas@..., Apr 15 6:46 AM
     - [1074](1074.md): Re: Reproducing postGSf90 results by yutakamasuda, Today at 8:08 AM
 - [1065](1065.md): postGSf90 by Hadi Atashi, Apr 11 3:58 AM
     - [1073](1073.md): Re: postGSf90 by yutakamasuda, Today at 8:03 AM
 - [1063](1063.md): Thrgibbs1f90 by abdalkhateb, Apr 3 5:18 AM
     - [1072](1072.md): Re: Thrgibbs1f90 by yutakamasuda, Today at 7:59 AM
-- [1062](1062.md): User defined G matrix by chpalaiok@gmail.com, Apr 1 9:31 AM
+- [1062](1062.md): User defined G matrix by chpalaiok@..., Apr 1 9:31 AM
     - [1071](1071.md): Re: User defined G matrix by yutakamasuda, Today at 7:50 AM
 - [1061](1061.md): Segmentation fault and some system errors by yutakamasuda, Mar 27
 - [1059](1059.md): Bus error by Hadi Atashi, Mar 25
 - [1058](1058.md): Airemlf90 error by rama bangera, Mar 22
     - [1060](1060.md): Re: Airemlf90 error by yutakamasuda, Mar 26
 - [1057](1057.md): bus error by Hadi Atashi, Mar 21
-- [1056](1056.md): Random regression with mat and mpe effects by barbaramnascimento@gmail.com, Mar 20
-- [1054](1054.md): airemlF90 Error Message by khoulaha@uoguelph.ca, Mar 19
+- [1056](1056.md): Random regression with mat and mpe effects by barbaramnascimento@..., Mar 20
+- [1054](1054.md): airemlF90 Error Message by khoulaha@..., Mar 19
 - [1052](1052.md): problems with postgsf90 (new update) by gregori_ro, Mar 19
     - [1055](1055.md): Re: [blupf90] problems with postgsf90 (new update) by rama bangera, Mar 19
 - [1051](1051.md): Re: Problem installing 64-bit programs by Daniela Lourenco, Mar 18
-    - [1053](1053.md): Re: Problem installing 64-bit programs by kevans@seeingeye.org, Mar 19
-- [1050](1050.md): Problem installing 64-bit programs by kevans@seeingeye.org, Mar 18
+    - [1053](1053.md): Re: Problem installing 64-bit programs by kevans@..., Mar 19
+- [1050](1050.md): Problem installing 64-bit programs by kevans@..., Mar 18
 - [1048](1048.md): Problem with postGSf90 in new update by rama bangera, Mar 8
     - [1049](1049.md): Re: [blupf90] Problem with postGSf90 in new update by Daniela Lourenco, Mar 12
-- [1046](1046.md): Random regression and reaction norms by barbaramnascimento@gmail.com, Feb 11
+- [1046](1046.md): Random regression and reaction norms by barbaramnascimento@..., Feb 11
 - [1045](1045.md): multi trait model by swati10586@yahoo.com, Feb 6
-- [1044](1044.md): Maternal permanent environment by barbaramnascimento@gmail.com, Feb 5
+- [1044](1044.md): Maternal permanent environment by barbaramnascimento@..., Feb 5
 - [1038](1038.md): problems in estimating maternal permanent environment effect. by namaring12@gmail.com, Jan 23
     - [1039](1039.md): Re: problems in estimating maternal permanent environment effect. by shogotsuruta, Jan 23
         - [1043](1043.md): Re: [blupf90] Re: problems in estimating maternal permanent environment effect. by Natalia Marín, Jan 24
-- [1037](1037.md): Reaction norm analysis and correlation of -0.99995 by mmartinezcastillero@gmail.com, Jan 20
+- [1037](1037.md): Reaction norm analysis and correlation of -0.99995 by mmartinezcastillero@..., Jan 20
     - [1041](1041.md): Re: Reaction norm analysis and correlation of -0.99995 by yutakamasuda, Jan 23
-        - [1042](1042.md): Re: Reaction norm analysis and correlation of -0.99995 by mmartinezcastillero@gmail.com, Jan 23
+        - [1042](1042.md): Re: Reaction norm analysis and correlation of -0.99995 by mmartinezcastillero@..., Jan 23
 - [1036](1036.md): Calculate H matrix without marker file by a_callister, Jan 10
     - [1040](1040.md): Re: Calculate H matrix without marker file by yutakamasuda, Jan 23
         - [1047](1047.md): Re: [blupf90] Re: Calculate H matrix without marker file by Andrew Callister, Feb 15
@@ -63,22 +122,22 @@
 - [1012](1012.md): Re: Help to use FIXED_VAR to estimate Breeding values with THRGIBBS1F90 by Shogo Tsuruta, Oct 15
     - [1014](1014.md): Re: Help to use FIXED_VAR to estimate Breeding values with THRGIBBS1F90 by nguyen_tuan393, Oct 16
 - [1011](1011.md): Re: Breeding Values in THRGIBBS1F90 by Shogo Tsuruta, Oct 15
-    - [1013](1013.md): Re: Breeding Values in THRGIBBS1F90 by ricardo.faria@unesp.br, Oct 16
+    - [1013](1013.md): Re: Breeding Values in THRGIBBS1F90 by ricardo.faria@..., Oct 16
 - [1009](1009.md): Help to use FIXED_VAR to estimate Breeding values with THRGIBBS1F90 by nguyen_tuan393, Oct 15
 - [1007](1007.md): Re: [blupf90] Re: Breeding Values in THRGIBBS1F90 by Shogo Tsuruta, Oct 4
     - [1008](1008.md): Re: [blupf90] Re: Breeding Values in THRGIBBS1F90 by Yahoo, Oct 4
 - [1004](1004.md): Re: Breeding Values in THRGIBBS1F90 by Shogo Tsuruta, Oct 3
-    - [1005](1005.md): Re: Breeding Values in THRGIBBS1F90 by ricardo.faria@unesp.br, Oct 3
+    - [1005](1005.md): Re: Breeding Values in THRGIBBS1F90 by ricardo.faria@..., Oct 3
         - [1006](1006.md): Re: [blupf90] Re: Breeding Values in THRGIBBS1F90 by Yahoo, Oct 3
-    - [1010](1010.md): Re: Breeding Values in THRGIBBS1F90 by ricardo.faria@unesp.br, Oct 15
-- [1003](1003.md): Breeding Value in THRGIBBS1F90 by ricardo.faria@unesp.br, Oct 3
+    - [1010](1010.md): Re: Breeding Values in THRGIBBS1F90 by ricardo.faria@..., Oct 15
+- [1003](1003.md): Breeding Value in THRGIBBS1F90 by ricardo.faria@..., Oct 3
 - [1001](1001.md): Problems with GWAS single-step analysis by rnakamurawatanabe, Oct 1
 - [1000](1000.md): estimating variance and covariances using coefficients from a three parity random regression model by thomas muasya, Sep 29
 - [999](0999.md): hi by melakshaa, Sep 17
 - [998](0998.md): Hi by Yahoo, Sep 11
 - [996](0996.md): Re: [blupf90] Re: renumf90 problem by Shogo Tsuruta, Sep 7
 - [994](0994.md): Re: Bivariate random regression:&quot;qform not pos def, fixed&quot; warnings by Shogo Tsuruta, Sep 6
-- [992](0992.md): Bivariate random regression:&quot;qform not pos def, fixed&quot; warnings by stephchante@yahoo.com, Sep 6
+- [992](0992.md): Bivariate random regression:&quot;qform not pos def, fixed&quot; warnings by stephchante@..., Sep 6
 - [980](0980.md): Re: [blupf90] Re: renumf90 problem by Shogo Tsuruta, Aug 28
     - [981](0981.md): Re: [blupf90] Re: renumf90 problem by Alfredo Lepori, Aug 28
         - [982](0982.md): Re: [blupf90] Re: renumf90 problem by Yahoo, Aug 29
@@ -126,7 +185,7 @@
 - [947](0947.md): Re: LOG file by Shogo Tsuruta, Jul 18
 - [946](0946.md): Re: bivariate random regression by Shogo Tsuruta, Jul 18
     - [948](0948.md): Re: [blupf90] Re: bivariate random regression by thomas muasya, Jul 30
-- [945](0945.md): LOG file by pomidorywzupie@gmail.com, Jul 16
+- [945](0945.md): LOG file by pomidorywzupie@..., Jul 16
 - [944](0944.md): bivariate random regression by thomas muasya, Jul 12
 - [942](0942.md): Re: Help understand the Final_solutions results by Shogo Tsuruta, Jul 6
     - [943](0943.md): Re: Help understand the Final_solutions results by nguyen_tuan393, Jul 9
@@ -186,7 +245,7 @@
     - [885](0885.md): Re: [blupf90] Negative Residual Variance by Ignacy Misztal, Feb 3
         - [887](0887.md): Re: [blupf90] Negative Residual Variance by Ste Bif, Feb 3
 - [882](0882.md): Original Animal IDs passed to Solution File by kedmart, Jan 14
-- [881](0881.md): Animal instead Add_sire? RENUMF90 -&gt; AIREML90 by wod.lukasz@gmail.com, Jan 8
+- [881](0881.md): Animal instead Add_sire? RENUMF90 -&gt; AIREML90 by wod.lukasz@..., Jan 8
 - [880](0880.md): locks the mobile by sinan dh, Jan 2
 - [878](0878.md): Re: Fixed effect in dairy cattle by Daniela Lourenco, Dec 15, 2017
 - [877](0877.md): Re: PostGSF90 window_variance by Daniela Lourenco, Dec 15, 2017
@@ -197,8 +256,8 @@
     - [873](0873.md): Re: [blupf90] How to solve &quot;too many elements found in a hash matrix&quot; problem ? by Ignacy Misztal, Dec 15, 2017
 - [871](0871.md): Re: [blupf90] Where is progsf90.tar.gz??? by Shogo Tsuruta, Dec 14, 2017
     - [874](0874.md): Re: [blupf90] Where is progsf90.tar.gz??? by Marnin Wolfe, Dec 15, 2017
-- [868](0868.md): PostGSF90 window_variance by chpalaiok@gmail.com, Dec 12, 2017
-- [867](0867.md): Where is progsf90.tar.gz??? by wolfemd@gmail.com, Dec 12, 2017
+- [868](0868.md): PostGSF90 window_variance by chpalaiok@..., Dec 12, 2017
+- [867](0867.md): Where is progsf90.tar.gz??? by wolfemd@..., Dec 12, 2017
     - [869](0869.md): Re: [blupf90] Where is progsf90.tar.gz??? by Ignacy Misztal, Dec 14, 2017
         - [870](0870.md): Re: [blupf90] Where is progsf90.tar.gz??? by Marnin Wolfe, Dec 14, 2017
 - [866](0866.md): Fixed effect in dairy cattle by geneneticaganadera.inia, Dec 6, 2017
@@ -228,7 +287,7 @@
     - [842](0842.md): Re: Help in random regression analysis by raimundonblobo, Jun 27, 2017
 - [839](0839.md): How many columns can be read by BlupF90? by gemg7235, Jun 26, 2017
 - [838](0838.md): Re: accuracy with thrgibbs1f90 by Shogo Tsuruta, Jun 25, 2017
-- [837](0837.md): accuracy with thrgibbs1f90 by omarverde@gmail.com, Jun 25, 2017
+- [837](0837.md): accuracy with thrgibbs1f90 by omarverde@..., Jun 25, 2017
 - [835](0835.md): Problem running gibbs2f90 by raimundonblobo, Jun 14, 2017
 - [833](0833.md): Re: [blupf90] problem with gnuplot by gopal gowane, Jun 8, 2017
 - [826](0826.md): Degrees of Belief in GIBBS1F90 by gopal_gowane, Jun 6, 2017
@@ -239,8 +298,8 @@
             - [831](0831.md): Re: [blupf90] Re: Degrees of Belief in GIBBS1F90 by Katrin TÃ¶pner, Jun 7, 2017
                 - [832](0832.md): Re: [blupf90] Re: Degrees of Belief in GIBBS1F90 by Ignacy Misztal, Jun 7, 2017
 - [824](0824.md): restart an analysis by evelynpmalfonzo, Jun 2, 2017
-- [823](0823.md): custom kinship matrix in SNP effect estimation by richard.bernstein@hu-berlin.de, May 31, 2017
-    - [834](0834.md): Re: custom kinship matrix in SNP effect estimation by richard.bernstein@hu-berlin.de, Jun 13, 2017
+- [823](0823.md): custom kinship matrix in SNP effect estimation by richard.bernstein@..., May 31, 2017
+    - [834](0834.md): Re: custom kinship matrix in SNP effect estimation by richard.bernstein@..., Jun 13, 2017
 - [820](0820.md): maternal permanent environment in airemlf90 by gopal_gowane, May 29, 2017
     - [821](0821.md): Re: maternal permanent environment in airemlf90 by gopal_gowane, May 29, 2017
         - [822](0822.md): Re: [blupf90] Re: maternal permanent environment in airemlf90 by Ignacy Misztal, May 30, 2017
@@ -277,9 +336,9 @@
 - [791](0791.md): Blupf90 page http://nce.ads.uga.edu/ by fariaras, Feb 11, 2017
 - [789](0789.md): Re: [blupf90] Re: predf90 by Breno Fragomeni, Feb 3, 2017
     - [790](0790.md): Re: predf90 by ynatividade15, Feb 3, 2017
-- [782](0782.md): Model with multiple animal genetic effects by f_tiezzi@ncsu.edu, Jan 26, 2017
+- [782](0782.md): Model with multiple animal genetic effects by f_tiezzi@..., Jan 26, 2017
     - [783](0783.md): Re: [blupf90] Model with multiple animal genetic effects by Breno Fragomeni, Jan 26, 2017
-        - [784](0784.md): Re: Model with multiple animal genetic effects by f_tiezzi@ncsu.edu, Jan 26, 2017
+        - [784](0784.md): Re: Model with multiple animal genetic effects by f_tiezzi@..., Jan 26, 2017
 - [780](0780.md): RENUMf90 by gopal gowane, Jan 5, 2017
     - [781](0781.md): Re: [blupf90] RENUMf90 by gopal gowane, Jan 5, 2017
         - [786](0786.md): Re: RENUMf90 by ynatividade15, Jan 31, 2017
@@ -317,7 +376,7 @@
     - [749](0749.md): Re: [blupf90] Mixed direct/direct-maternal model by Daniela Lourenco, Aug 19, 2016
 - [747](0747.md): Error with new version of renumf90 (1.114) by Julie Hamon, Aug 18, 2016
 - [746](0746.md): (part 4) Creation of the universe by extraterrestrial Intelligence by mostafasalimdia1989, Aug 16, 2016
-- [745](0745.md): RRM by siavashmanzoori@rocketmail.com, Aug 13, 2016
+- [745](0745.md): RRM by siavashmanzoori@..., Aug 13, 2016
 - [744](0744.md): (part 3) Creation of the universe by extraterrestrial Intelligence by mostafasalimdia1989, Aug 13, 2016
 - [743](0743.md): (part 2) Creation of the universe by extraterrestrial Intelligence by mostafasalimdia1989, Aug 9, 2016
 - [742](0742.md): a cofactor with blupf90 family program by soumri.nabil, Aug 8, 2016
@@ -693,8 +752,8 @@
 - [361](0361.md): Re: Downloading application programs. by Austin Putz, Aug 19, 2014
 - [360](0360.md): Re: Downloading application programs. by Shogo Tsuruta, Aug 18, 2014
 - [359](0359.md): Downloading application programs. by putz.austin, Aug 18, 2014
-- [358](0358.md): Bivariate Analysis of Binary trait by ojalim@ymail.com, Aug 9, 2014
-- [357](0357.md): Random regression by ojalim@ymail.com, Aug 9, 2014
+- [358](0358.md): Bivariate Analysis of Binary trait by ojalim@..., Aug 9, 2014
+- [357](0357.md): Random regression by ojalim@..., Aug 9, 2014
 - [354](0354.md): remlf90 - OPTION constant_var by Sanchez, Juan Pablo, Jul 24, 2014
     - [355](0355.md): Re: [blupf90] remlf90 - OPTION constant_var by Andres Legarra, Jul 28, 2014
         - [356](0356.md): RE: [blupf90] remlf90 - OPTION constant_var by Sanchez, Juan Pablo, Jul 28, 2014
@@ -1014,7 +1073,7 @@
 - [36](0036.md): multiple trait sire model by thomas, Oct 17, 2012
     - [37](0037.md): Re: [blupf90] multiple trait sire model by Andres Legarra, Oct 17, 2012
         - [38](0038.md): Re: [blupf90] multiple trait sire model by thomas muasya, Oct 17, 2012
-- [35](0035.md): How to continue from previous iteration? by sjengske@ymail.com, Feb 17, 2012
+- [35](0035.md): How to continue from previous iteration? by sjengske@..., Feb 17, 2012
 - [34](0034.md): fortran arguments by Andres Legarra, Feb 12, 2012
 - [33](0033.md): Fedora14[32bit] by Mahmood Honarvar, Jan 24, 2012
 - [31](0031.md): relationship between #CAT and prior of Residual Variance by Mahmood Honarvar, Jan 23, 2012
